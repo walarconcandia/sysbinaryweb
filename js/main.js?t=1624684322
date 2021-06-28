@@ -1,0 +1,112 @@
+$(function () {
+    'use strict';
+    // FULLSCREEN FIX MAIN HEADER//
+    var windowHeight = $(window).innerHeight();
+    $('.header.home').css('height', windowHeight);
+    $('#menu .menu').css('height', windowHeight);
+
+});
+
+function wheight() {
+    var windowHeight = $(window).innerHeight();
+    $('.header.home').css('height', windowHeight);
+    $('#menu .menu').css('height', windowHeight);
+    if (windowHeight >= "581" && windowHeight <= "665") {
+        $('#menu .menu').addClass("min1");
+    } else {
+        $('#menu .menu').removeClass("min1");
+    }
+
+    if (windowHeight <= "580") {
+        $('#menu .menu').addClass("min2");
+        $("#menu .hrline, #menu .menu .redes").fadeOut();
+    } else {
+        $('#menu .menu').removeClass("min2");
+        $("#menu .hrline, #menu .menu .redes").fadeIn();
+    }
+}
+
+wheight();
+$(window).resize(function () {
+    wheight();
+});
+
+$(document).ready(function () {
+    // SUSCRIBIR FOOTER
+    $(".con-suscribir").hover(function () {
+        $("#lbl-suscribir").hide();
+        $("#sb-suscribir").addClass("sb-suscribir-open");
+    }, function () {
+        $("#lbl-suscribir").fadeIn(500);
+        $("#sb-suscribir").removeClass("sb-suscribir-open");
+    });
+    
+    $(".active-submenu").click(function () {
+        $(".navegacion.submenu").slideToggle();
+        $(this).toggleClass("activo");
+    });
+
+    // CLIENTES
+    $(".mostar-lista").click(function () {
+        $(".lista-clientes").slideToggle();
+        $(this).toggleClass("ovax");
+    });
+
+    // MAGNIFIC POP UP
+    // A UN CONTENEDOR EN ESPECIFICO CON VARIAS FOTOS
+    $('.galerias, .galeria').each(function () { // the containers for all your galleries
+        $(this).magnificPopup({
+            delegate: 'a', // the selector for gallery item
+            type: 'image',
+            mainClass: 'mfp-with-zoom',
+            gallery: {
+                enabled: true // read about this option in next Lazy-loading section
+            }
+        });
+    });
+
+    // A UN LINK EN ESPECIFICO
+    $(".lb-link").magnificPopup({
+        type: 'image',
+        mainClass: 'mfp-with-zoom', // this class is for CSS animation below
+        gallery: {
+            enabled: true // read about this option in next Lazy-loading section
+        }
+    });
+
+
+    // MENU OPEN
+    var open = false;
+    $("button#target").click(function () {
+        if (!open) {
+            $(this).addClass('close');
+            $("#target .txt").addClass('op1').fadeOut();
+            open = true;
+        }
+        else {
+            $(this).removeClass('close');
+            $("#target .txt").removeClass('op1').fadeIn();
+            open = false;
+        }
+    });
+
+
+
+    // EFECTOS MENU SCROLLDOWN
+    var $head = $('#menu');
+    $('.ha-waypoint').each(function (i) {
+        var $el = $(this),
+        animClassDown = $el.data('animateDown'),
+        animClassUp = $el.data('animateUp'),
+        animOffset = $el.data('offset');
+
+        $el.waypoint(function (direction) {
+            if (direction === 'down' && animClassDown) {
+                $head.attr('class', 'ha-header ' + animClassDown);
+            }
+            else if (direction === 'up' && animClassUp) {
+                $head.attr('class', 'ha-header ' + animClassUp);
+            }
+        }, {offset: animOffset});
+    });
+});

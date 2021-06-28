@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Mailing, nunca Spam: ¿Cómo convertir clientes sin irritar a nadie?</title>
+  <meta name="description" content="Seamos sinceros: nadie disfruta del correo basura. Es más, probablemente tengas una bandeja con unos cientos (o miles) de correos sin leer y la mayoría (si no todos) son puro Spam.">
+  <meta name="keywords" content="">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie" />
+  <meta property="og:title" content="Mailing, nunca Spam: ¿Cómo convertir clientes sin irritar a nadie?" />
+  <meta property="og:description" content="Seamos sinceros: nadie disfruta del correo basura. Es más, probablemente tengas una bandeja con unos cientos (o miles) de correos sin leer y la mayoría (si no todos) son puro Spam." />
+  <meta property="og:image" content="https://www.genotipo.com/img/articulos/1623269736.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Mailing, nunca Spam: ¿Cómo convertir clientes sin irritar a nadie?" />
+  <meta name="twitter:description" content="Seamos sinceros: nadie disfruta del correo basura. Es más, probablemente tengas una bandeja con unos cientos (o miles) de correos sin leer y la mayoría (si no todos) son puro Spam." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/articulos/1623269736.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684202">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+
+<div class="clearfix50"></div>
+<section class="container">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+      <div class="center">
+        <h6>Artículos</h6>
+        <div class="clearfix20"></div>
+        <h1 class="titulo-noticia">Mailing, nunca Spam: ¿Cómo convertir clientes sin irritar a nadie?        </h1>
+      </div>
+    </div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <div class="center">
+        <img src="https://www.genotipo.com/img/articulos/1623269736.jpg" class="img-responsive imagen-noticia"
+          alt="">
+        <div class="fright">
+          <p><i class="fa fa-eye" aria-hidden="true"></i> <strong>15</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix10"></div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <h3>Seamos sinceros: nadie disfruta del correo basura. Es más, probablemente tengas una bandeja con unos cientos (o miles) de correos sin leer y la mayoría (si no todos) son puro Spam.      </h3>
+      <div class="h30"></div>
+      <div>Ya seas un emprendedor, mercad&oacute;logo, o alg&uacute;n joven entusiasta que se top&oacute; con este art&iacute;culo, debes entender que una buena campa&ntilde;a de Mailing es una de las mejores herramientas que existen para convertir a tus consumidores en clientes frecuentes... si se hace bien.</div>
+<div>&nbsp;</div>
+<div>A pesar de que el tema es sumamente amplio (sin tomar en cuenta programas, bases de datos y cosas bastante t&eacute;cnicas), hay 6 principios muy sencillos que resumen todo lo que hace que el mailing sea tan efectivo. Y a continuaci&oacute;n, te los presentamos:</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>1) T&iacute;tulos buenos hacen toda la diferencia</strong></h2>
+<div>
+<div>Las personas somos muy selectivas y honestamente, algo dif&iacute;ciles. Eso significa que desde el momento en que tu correo llega al usuario, el simple hecho de tener un t&iacute;tulo "gen&eacute;rico" te garantiza una bateada magistral.</div>
+<div>&nbsp;</div>
+<div>Debes tener muy en cuenta qu&eacute; quiere tu p&uacute;blico, qu&eacute; es lo que busca de tu empresa o de ti y explotarlo con creatividad; algo tan sencillo como una pregunta ("&iquest;Quieres verte genial?") o mejor a&uacute;n, su nombre ("Luis, esto te va a encantar"). Pica inmediatamente su inter&eacute;s&nbsp;y lo dem&aacute;s es historia.</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>2) Segmenta tu mercado</strong></h2>
+<div>Tu campa&ntilde;a de mailing debe tener solo un objetivo: llegar a la bandeja de entrada. Si lo logras, ya tienes un cliente asegurado. &iexcl;PERO OJO! No todos tus clientes quieren lo mismo, y ninguno es igual a otro. Debes conocer tu mercado: &iquest;Qu&eacute; edad tiene tu clientela promedio?, &iquest;La mayor&iacute;a son hombres/mujeres?, &iquest;Son j&oacute;venes?, &iquest;Tienen la solvencia para consumir seguido lo que ofreces? Pero sin duda, la m&aacute;s importante es bastante sencilla: &iquest;Qu&eacute; les interesa? Hay una raz&oacute;n por la que te est&aacute;n escogiendo sobre la competencia y por ello debes explotarlo al m&aacute;ximo.</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>3) Personaliza su "Experiencia"</strong></h2>
+<div>Imagina que tu pareja te regale la misma tarjeta de cumplea&ntilde;os todos los a&ntilde;os. Fr&iacute;o, &iquest;no es as&iacute;? Bueno, un mensaje gen&eacute;rico da una sensaci&oacute;n algo similar, o peor a&uacute;n, hace que se vuelvan indiferentes a tu marca.</div>
+<div>&nbsp;</div>
+<div>&iquest;Pero y si cada a&ntilde;o tu pareja te regalara algo completamente diferente, hecho a mano y que se nota que le dedic&oacute; tiempo? Completamente diferente, &iquest;verdad? Ahora, eso no significa que cada correo ser&aacute; hecho a mano sino que a tus clientes les gusta sentirse diferentes. Algo tan sencillo como un nombre (nos gustan nuestros nombres) hace TODA la diferencia ante tu competencia. Si ellos se sientes especiales, ya ganaste media batalla.</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>4) &Eacute;l es el centro, no tus productos&nbsp;</strong></h2>
+<div>Sigamos siendo sinceros: &iquest;Leer&iacute;as un correo de una tienda de jabones, presumiendo que son la mejor tienda de jabones y que tienen el jab&oacute;n perfecto para ti? Probablemente no, o al menos no con mucho inter&eacute;s. Porque eso es lo que hacen todas las empresas, todo el tiempo. Y si, suena muy contraproducente el no hacerlo, pero en la pr&aacute;ctica esto hace toda la diferencia entre ser una empresa m&aacute;s y ser la empresa que tus clientes escoger&aacute;n.</div>
+<div>&nbsp;</div>
+<div>Regresando al ejemplo, &iquest;y qu&eacute; tal si la tienda de jabones dice en realidad, que saben que te gusta la higiene, tu cuidado y que no escoges cualquier marca barata porque tu vales m&aacute;s que eso? Ni siquiera mencionaste tu producto, pero ya tienes su inter&eacute;s y m&aacute;s importante a&uacute;n, su atenci&oacute;n.</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>5) Menos siempre es m&aacute;s</strong></h2>
+<div>Que algo quede claro, y es que nadie tiene tiempo y mucho menos inter&eacute;s en leer toda tu propuesta de mercado por correo. Tendr&aacute;s que ser creativo y eso implica simplicidad. Mucha simplicidad.</div>
+<div>&nbsp;</div>
+<div>Todo contenido de mailing se divide en 3 partes: Introducci&oacute;n, Argumentaci&oacute;n y "Call to Action" (ese ahorita lo vemos).&nbsp; En pocas palabras: I) Debes de meter al cliente con originalidad en tu texto, II) Convencerlos con emociones e ideas que tu producto/marca vale la pena, III) Y para sellar con broche de oro...</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>6) Ll&eacute;valos a la Acci&oacute;n</strong></h2>
+<div>&iexcl;Que hagan algo al respecto! Tu correo los lleva de la manita hasta tu propuesta y con el "Call to Action"&nbsp;les presentas exactamente lo que est&aacute;n buscando: TU MARCA (y por lo tanto, tu producto). Hasta un simple bot&oacute;n de "Conocer m&aacute;s" convierte a un interesado en un posible cliente. Si todo el correo es una carta de amor, el CTA es el boleto al cine. Claro, el cliente decide si tomar&aacute; el boleto o no, pero honestamente es muy dif&iacute;cil decir que no si la carta de amor est&aacute; muy bonita.</div>
+<div>&nbsp;</div>
+<div>En Genotipo, conocemos muy bien la importancia de una gran Campa&ntilde;a de Mailing y sabemos como aplicarlo para tu empresa.</div>
+<div>&nbsp;</div>
+<div><strong>Si quieres convertir a tus prospectos en fieles seguidores, nosotros somos tu soluci&oacute;n.</strong></div>
+</div>    </div>
+
+    <div class="clearfix30"></div>
+
+            <div class="clearfix30"></div>
+
+    <div class="col-sm-12 center">
+      <a href="https://www.genotipo.com/articulos" class="btn-black">Regresar
+        a Artículos</a>
+            <div class="clearfix30"></div>
+      <h2><strong>¿Te gustó o resultó interesante? Compártelo.</strong></h2>
+      <div class="clearfix10"></div>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie"
+        target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png"
+          border="0" alt="Google+" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" border="0" alt="LinkedIn" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?url=https://www.genotipo.com/articulos/mailing-nunca-spam-como-convertir-clientes-sin-irritar-a-nadie" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/pinterest.png" border="0" alt="Pinterest" /></a>
+    </div>
+  </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684202"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684202"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script>
+$(document).ready(function() {
+  $("#menu").addClass("black-menu");
+});
+</script>
+</body>
+
+</html>

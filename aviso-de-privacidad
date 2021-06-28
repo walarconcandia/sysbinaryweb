@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Conozca nuestro Aviso de Privacidad</title>
+  <meta name="description" content="Una de las prioridades de Genotipo es respetar la privacidad de sus usuarios y mantener segura la información y los datos personales que recolecta.">
+  <meta name="keywords" content="aviso de privacidad, genotipo, genotipo.com, genotipo.mx, genotipo.com.mx">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/aviso-de-privacidad" />
+  <meta property="og:title" content="Conozca nuestro Aviso de Privacidad" />
+  <meta property="og:description" content="Una de las prioridades de Genotipo es respetar la privacidad de sus usuarios y mantener segura la información y los datos personales que recolecta." />
+  <meta property="og:image" content="https://www.genotipo.com/img/back-home.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/aviso-de-privacidad" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Conozca nuestro Aviso de Privacidad" />
+  <meta name="twitter:description" content="Una de las prioridades de Genotipo es respetar la privacidad de sus usuarios y mantener segura la información y los datos personales que recolecta." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/back-home.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684308">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+<div class="clearfix50"></div>
+<section class="container">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 col-sm-12 center">
+            <h6>Aviso de privacidad</h6>
+        </div>
+        <div class="clearfix20"></div>
+        
+        <div class="col-lg-10 col-lg-offset-1 col-sm-12">
+            El aviso de privacidad forma parte del uso del sitio web <strong>www.genotipo.mx</strong> con fundamento en los artículos 15 y 16 de la Ley Federal de Protección de Datos Personales en Posesión de Particulares hacemos de su conocimiento que: 
+            <br/><br/>
+            El <strong>Sr.Carlos Israel Mézquita Torres</strong> es nuestro Responsable de Protección de Datos, quien es una persona física con actividad empresarial que en lo sucesivo se denominará "<strong>Genotipo</strong>" con domicilio en <strong>Av. Uxmal No. 14 SM 2 A, Mza. 2 Lt. 14, Edificio Aqua Marina, Cancún, Quintana Roo. C.P. 77500</strong>, teléfono de contacto <strong>(998) 2068853</strong> y correo <strong>privacidad@genotipo.com</strong>. 
+            <br/><br/>
+            Una de las prioridades de <strong>Genotipo</strong> es respetar la privacidad de sus usuarios y mantener segura la información y los datos personales que recolecta. Sus datos personales serán tratados por Genotipo. 
+            <br/><br/>
+            <strong>DATOS PERSONALES QUE SOLICITAMOS</strong><br/>
+            La información solicitada al usuario es:<br/>
+            • Nombre(s)<br/>
+            • Empresa / Organización<br/>
+            • Dirección de correo electrónico<br/>
+            • Número telefónico.<br/>
+            La información deberá ser veraz y completa. El usuario responderá en todo momento por la veracidad de los datos proporcionados y en ningún caso <strong>Genotipo</strong> será responsable a este respecto. 
+            <br/><br/>
+            <strong>USO DE LA INFORMACIÓN</strong><br/>
+            La información solicitada permite a <strong>Genotipo</strong> cumplir con la finalidad contactar a los clientes o usuarios, así como para el envió de boletines o postales electrónicas, notificaciones y actualizaciones respecto a nuestros servicios y/o productos, esto a través de cualquiera de nuestros formularios de contacto o suscripción. 
+            <br/><br/>
+            En todo momento usted podrá revocar el consentimiento que nos ha otorgado para el tratamiento de sus datos personales. Para ello, es necesario que presente su petición mediante un correo electrónico a <strong>privacidad@genotipo.com</strong>. Su petición deberá ir acompañada de los fundamentos por los que solicita dicha revocación y un documento oficial de identificación personal. En un plazo máximo de 20 (veinte) días hábiles atenderemos su solicitud y le informaremos sobre la procedencia de la misma a través del correo electrónico del que provenga la petición.
+            <br/><br/>
+            <strong>LIMITACIÓN DE USO Y DIVULGACIÓN DE INFORMACIÓN</strong><br/>
+            En nuestro programa de notificación de ofertas a través de correo electrónico, sólo <strong>Genotipo</strong> tiene acceso a la información recabada. Este tipo de publicidad se realiza mediante avisos y mensajes promocionales de correo electrónico, los cuales sólo serán enviados a usted, si al momento de registrarse usted indicó que desearía recibirlos, esta indicación podrá usted modificarla en cualquier momento en una liga que viene anexada a los correos que son enviados. En los correos electrónicos enviados, pueden incluirse ocasionalmente ofertas de terceras partes que sean nuestros socios comerciales. 
+            <br/><br/>
+            <strong>DERECHOS ARCO (ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN)</strong><br/>
+            Los datos personales proporcionados por el usuario formarán parte de un archivo que contendrá su perfil. El usuario tiene derecho al Acceso, Rectificación y Cancelación de sus datos personales, a Oponerse al tratamiento de los mismos o a revocar el consentimiento que para dicho fin nos haya otorgado. (derechos ARCO) 
+            <br/><br/>
+            Para ello, es necesario que envíe la solicitud en los términos que marca la Ley en su Art. 29 a Departamento de Protección de Datos Personales, responsable de nuestro Departamento de Protección de Datos Personales, ubicado en <strong>Av. Uxmal No. 14 SM 2 A, Mza. 2 Lt. 14, Edificio Aqua Marina, Cancún, Quintana Roo. C.P. 77500</strong>, o bien, se comunique al teléfono <strong>(998) 2068853</strong> o vía correo electrónico a <strong>privacidad@genotipo.com</strong>. 
+            <br/><br/>
+            <strong>Genotipo</strong> aconseja al usuario que actualice sus datos cada vez que éstos sufran alguna modificación, ya que esto permitirá brindarle un servicio más eficiente y personalizado.
+            <br/><br/>
+            <strong>TRANSFERENCIAS DE INFORMACIÓN CON TERCEROS</strong><br/>
+            <strong>Genotipo</strong> no realiza transferencias de información con terceros. 
+            <br/><br/>
+            <strong>DATOS PERSONALES SENSIBLES</strong><br/>
+            <strong>Genotipo</strong> en ninguno de los formularios se solicitan datos personales sensibles. 
+            <br/><br/>
+            Datos personales sensibles: Aquellos datos personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles aquellos que puedan revelar aspectos como origen racial o étnico, estado de salud presente y futuro, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas, preferencia sexual; (3-VI).
+            <br/><br/>
+            <strong>QUÉ SON LOS COOKIES Y CÓMO SE UTILIZAN</strong><br/>
+            Los cookies son pequeñas piezas de información que son enviadas por el sitio web a su navegador y se almacenan en el disco duro de su equipo y se utilizan para determinar sus preferencias cuando se conecta a los servicios de nuestros sitios, así como para rastrear determinados comportamientos o actividades llevadas a cabo por usted dentro de nuestros sitios. 
+            <br/><br/>
+            En algunas secciones de nuestro sitio requerimos que el cliente tenga habilitados los cookies ya que algunas de las funcionalidades requieren de éstas para trabajar. La utilización de cookies no será empleada para identificar a los usuarios, con excepción de los casos en que se investiguen posibles actividades fraudulentas. 
+            <br/><br/>
+            <strong>CONFIDENCIALIDAD DE LA INFORMACIÓN</strong><br/>
+            <strong>Genotipo</strong> no vende ni alquila la información de los usuarios. <strong>Genotipo</strong> puede difundir la información del titular en casos especiales cuando a solicitud expresa de alguna autoridad, proporcionar esta información pueda servir para identificar, localizar o realizar acciones legales contra personas que pudiesen infringir las condiciones del servicio de nuestros sitios web, o causar daños o interferencia sobre los derechos de <strong>Genotipo</strong> o sus propiedades, de otros usuarios de nuestros sitios web, de nuestros socios o de cualquier otra persona que pudiese resultar perjudicada por dichas actividades. 
+            <br/><br/>
+            <strong>PROTECCIÓN DE LA INFORMACIÓN PERSONAL</strong><br/>
+            Le recomendamos que no revele su información personal, incluidos usuarios y contraseñas, a nadie. <strong>Genotipo</strong> no solicitará su contraseña en ninguna llamada telefónica o mensaje de correo no solicitados. En todo momento, el usuario es el responsable único y final de mantener en secreto su clave de registro y contraseña personal, con los cuales tenga acceso a los servicios y contenidos de este sitio web. 
+            <br/><br/>
+            <strong>CAMBIOS EN EL AVISO DE PRIVACIDAD</strong><br/>
+            Este aviso puede tener cambios en el futuro, de ser así se le avisará oportunamente en la sección de Aviso de Privacidad de este sitio web.  Cualquier modificación o actualización a este Aviso de Privacidad podrá consultarlo en <strong>http://www.genotipo.mx/aviso-de-privacidad/</strong>
+            <br/><br/>
+            <strong>ACEPTACIÓN DE LOS TÉRMINOS</strong><br/>
+            Si el usuario utiliza los servicios de este sitio, significa que ha leído, entendido y acordado los términos antes expuestos. Si no está de acuerdo con ellos, el usuario no deberá proporcionar ninguna información personal, ni utilizar los servicios de este sitio web. 
+            <br/><br/>
+            <strong>FECHA DE ACTUALIZACIÓN</strong><br/>
+            Este aviso de privacidad, se actualizó el <strong>10 de marzo de 2015</strong>.
+        </div>
+    </div>
+</section>
+
+<div class="clearfix60"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684308"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684308"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script><script>
+    // BXSLIDER INIT
+    $(document).ready(function () {
+        $("#menu").addClass("black-menu");
+    });
+</script>
+</body>
+</html>

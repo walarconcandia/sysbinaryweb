@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Desarrollo Web, Sistemas, Aplicaciones y  Herramientas en línea.</title>
+  <meta name="description" content="Desarrollo web personalizado de sistemas y herramientas en línea a la medida, desarrollo de CRM, CMS y aplicaciones. Desarrollo escalable y personalizado.">
+  <meta name="keywords" content="desarrollo web, desarrollo en linea, desarrollo de herramientas, desarrollo de aplicaciones, aplicaciones en linea, desarrollo de sistemas, desarrollo online, desarrollo en la nube, desarrollo personalizado, desarrollo web cancun, desarrollo web queretaro">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/desarrollo-web" />
+  <meta property="og:title" content="Desarrollo Web, Sistemas, Aplicaciones y  Herramientas en línea." />
+  <meta property="og:description" content="Desarrollo web personalizado de sistemas y herramientas en línea a la medida, desarrollo de CRM, CMS y aplicaciones. Desarrollo escalable y personalizado." />
+  <meta property="og:image" content="https://www.genotipo.com/img/back-home.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/desarrollo-web" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Desarrollo Web, Sistemas, Aplicaciones y  Herramientas en línea." />
+  <meta name="twitter:description" content="Desarrollo web personalizado de sistemas y herramientas en línea a la medida, desarrollo de CRM, CMS y aplicaciones. Desarrollo escalable y personalizado." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/back-home.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684303">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+<header class="header desarrollo-web">
+    <div class="noise"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 center">
+                <p class="f18 blanco"><strong>DESARROLLO ÁGIL DE SOFTWARE Y HERRAMIENTAS EN LÍNEA.</strong></p>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="ha-waypoint" data-animate-down="ha-header-small" data-animate-up="ha-header-large" data-offset="15%"></div>
+<div class="clearfix60"></div>
+<section class="container">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 col-sm-12 center">
+            <h6>Desarrollo web</h6>
+            <h3>Desarrollo Intuitivo, escalable y personalizado.</h3>
+            <p class="f18">
+                Sabemos que la mejor manera de optimizar tu trabajo es mediante la implementación de procesos efectivos, por ello, <strong>desarrollamos sistemas</strong> y <strong>herramientas en línea</strong> a la medida, las cuales se pueden utilizar desde cualquier computadora o dispositivo móvil las 24 hrs. los 365 días del año. Y lo mejor de todo, completamente ajustado a tus necesidades reales.
+                <br/><br/>
+                <strong>Te presentamos los distintos tipos de desarrollo que podemos implementar para tu empresa o proyecto, nuestro equipo de expertos te brindará todo el soporte y asesoría necesaria para orientarte acerca de cual es la mejor solución.</strong>
+            </p>
+        </div>
+
+        <div class="clearfix50"></div>
+
+        <div class="servicios">
+            <div class="col-sm-6 col-lg-5 col-lg-offset-1">
+                <img src="https://www.genotipo.com/img/desarrollo-cms.jpg" alt="Diseño de páginas web" class="img-responsive" />
+            </div>
+
+            <div class="clearfix20 visible-xs"></div>
+
+            <div class="col-sm-6 col-lg-5">
+                <h1 class="mb5">Desarrollo de CMS</h1>
+                <h2 class="light mb15">Content Management System</h2>
+                <p>Desarrollamos <strong>Sistemas Administradores de Contenido</strong> mediante los cuales, podrás tener el control total y <strong>administración de tu página web de manera</strong> ágil, intuitiva y en tiempo real, por lo que mantendrás tu <strong>página web actualizada</strong> en todo momento y mejorarás así, su <strong>posicionamiento</strong> en los distintos buscadores.</p>
+            </div>
+
+            <div class="clearfix80"></div>
+
+            <div class="col-sm-6 col-lg-5 visible-xs">
+                <img src="https://www.genotipo.com/img/desarrollo-crm.jpg" alt="Desarrollo de sistemas en línea" class="img-responsive iright" />
+            </div>
+
+            <div class="clearfix20 visible-xs"></div>
+
+            <div class="col-sm-6 col-lg-5 col-lg-offset-1 tright">
+                <h1 class="mb5">Desarrollo de CRM</h1>
+                <h2 class="light mb15">Customer Relationship Management</h2>
+                <p>Diseñamos y desarrollamos un <strong>CRM a la medida</strong> de tus necesidades, a través del cual, gestionarás y administrarás de manera más ordenada la relación con tus clientes. Un <strong>CRM personalizado</strong>, es sin duda la mejor opción para establecer procesos más eficientes, obteniendo así un mayor conocimiento de tus clientes y prospectos para la correcta toma de desiciones en tu empresa.</p>
+            </div>
+
+            <div class="col-sm-6 col-lg-5 hidden-xs">
+                <img src="https://www.genotipo.com/img/desarrollo-crm.jpg" alt="Desarrollo de sistemas en línea" class="img-responsive iright" />
+            </div>
+
+            <div class="clearfix80"></div>
+
+            <div class="col-sm-6 col-lg-5 col-lg-offset-1">
+                <img src="https://www.genotipo.com/img/sistemas-online.jpg" alt="Diseño de páginas web" class="img-responsive" />
+            </div>
+
+            <div class="clearfix20 visible-xs"></div>
+
+            <div class="col-sm-6 col-lg-5">
+                <h1 class="mb5">Sistemas y Herramientas online</h1>
+                <h2 class="light mb15">Flexibles, amigables y funcionales</h2>
+                <p>Creamos <strong>herramientas en línea</strong> para ayudarte a lograr tus objetivos o los de tu negocio, desde un simple registro en línea, un sistema de miembros o afiliados, hasta un sistema completo de control de inventarios por mencionar algunos ejemplos. No importa que tan compleja sea tu idea o necesidad, nosotros la hacemos realidad mediante <strong>desarrollos amigables</strong>, pero sobre todo, funcionales.</p>
+            </div>
+
+            <div class="clearfix80"></div>
+
+            <div class="col-sm-6 col-lg-5 visible-xs">
+                <img src="https://www.genotipo.com/img/aplicaciones-web.jpg" alt="Branding y diseño" class="img-responsive iright" />
+            </div>
+
+            <div class="clearfix20 visible-xs"></div>
+
+            <div class="col-sm-6 col-lg-5 col-lg-offset-1 tright">
+                <h1 class="mb5">Desarrollo de Aplicaciones Web</h1>
+                <h2 class="light mb15">Si la puedes imaginar, nosotros la podemos crear</h2>
+                <p>Si requieres de un <strong>aplicación</strong> que funcione <strong>en la nube</strong>, nosotros somos la solución… Te ayudamos a planear, definir, diseñar y desarrollar tu <strong>aplicación en línea</strong>, la cual estará disponible en todo momento, lo que te permitirá acceder desde cualquier plataforma, navegador o sistema operativo. Es momento de llevar tu idea de negocio al mundo digital.</p>
+            </div>
+
+            <div class="col-sm-6 col-lg-5 hidden-xs">
+                <img src="https://www.genotipo.com/img/aplicaciones-web.jpg" alt="Branding y diseño" class="img-responsive iright" />
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="header pleca-desarrollo-web">
+    <div class="middle-align dispagweb center">
+        <h2 class="light">En Genotipo</h2>
+        <h2><strong>"Ayudamos a optimizar los procesos de tu empresa mediante sistemas efectivos".</strong></h2>
+    </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-10 col-md-offset-1">
+            <h2>Principales beneficios de contar con un desarrollo personalizado.</h2>
+        </div>
+
+        <div class="clearfix10"></div>
+
+        <div class="col-sm-6 col-md-5 col-md-offset-1">
+            <ul class="lista-icon">
+                <li>Funciona en la nube, por lo que no requiere de la instalación de ningún tipo de software adicional y se puede acceder desde cualquier computadora y en cualquier momento.</li>
+                <li>Es menos costoso que comprar software de escritorio o licencias de este, lo que te permitirá también pagar solo por lo que usas y requieres, y no por funciones que nunca utilizarás.</li>
+                <li class="mb0">Actualizaciones más sencillas y en tiempo real, cada que accedas a una aplicación vía web, sabrás que tendrás siempre la última versión de esta sin necesidad de instalaciones adicionales.</li>
+            </ul>
+        </div>
+        <div class="clearfix10 visible-xs"></div>
+        <div class="col-sm-6 col-md-5">
+            <ul class="lista-icon">
+                <li>No se requiere de un ordenador con características especificas o de gama alta, esto debido a que las aplicaciones se ejecutan en la nube y no en tu computadora.</li>
+                <li>Mayor capacidad de almacenamiento, este dependerá de la capacidad del servidor el cual en muchas ocasiones es ilimitado, así que ya no tendrás que preocuparte por llenar tus discos duros.</li>
+                <li class="mb0">Crecimiento en base a las necesidades, otra gran ventaja es la escalabilidad, ya que su aplicación o herramienta se puede ir complementando en base a sus necesidades.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="pleca-gris content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 center">
+                <h1>Nuestro proceso</h1>
+                <p class="f18">Implementamos un proceso efectivo para garantizar <strong>desarrollos amigables</strong> y fáciles de usar.</p>
+            </div>
+
+            <div class="clearfix20"></div>
+
+            <div class="col-sm-1 hidden-xs">
+                <div class="clearfix10"></div>
+                <img src="https://www.genotipo.com/img/prob-1.png" alt="Proceso 1" class="img-responsive" />
+            </div>
+            <div class="col-sm-5">
+                <div class="paso-proceso">
+                    <h3 class="mb10">1. Planificamos y estructuramos</h3>
+                    <p>Todo comienza con una necesidad. En base a esta, analizamos y desasrrollamos la <strong>arquitectura de información</strong> sin perder de vista los objetivos del proyecto, realizando una estructura de datos ágil, intuitiva y funcional.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-1 hidden-xs">
+                <div class="clearfix20"></div>
+                <img src="https://www.genotipo.com/img/prob-2.png" alt="Proceso 2" class="img-responsive" />
+            </div>
+            <div class="col-sm-5">
+                <div class="paso-proceso">
+                    <h3 class="mb10">2. Bocetamos y diseñamos</h3>
+                    <p>Realizamos <strong>wireframes</strong> a manera de boceto para definir el aspecto visual de los módulos y pantallas del sistema o aplicación, esto para garantizar que sea <strong>amigable con el usuario</strong>; diseñamos prototipos del sistema de manera digital para mostrar su aspecto final.</p>
+                </div>
+            </div>
+
+            <div class="clearfix40 hidden-xs"></div>
+
+            <div class="col-sm-1 hidden-xs">
+                <div class="clearfix20"></div>
+                <img src="https://www.genotipo.com/img/prob-3.png" alt="Proceso 3" class="img-responsive" />
+            </div>
+            <div class="col-sm-5">
+                <div class="paso-proceso">
+                    <h3 class="mb10">3. Desarrollamos</h3>
+                    <p>Llevamos a cabo el <strong>desarrollo del sistema o aplicación</strong> en base a la estructura y prototipos finales previamente definidos, todo esto mediante un <strong>proceso ágil</strong>, el cual nos permita liberar el proyecto completo o por etapás según sea requerido por el cliente.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-1 hidden-xs">
+                <div class="clearfix20"></div>
+                <img src="https://www.genotipo.com/img/prob-4.png" alt="Proceso 4" class="img-responsive" />
+            </div>
+            <div class="col-sm-5">
+                <div class="paso-proceso">
+                    <h3 class="mb10">4. Probamos y publicamos</h3>
+                    <p>Hacemos <strong>pruebas de usabilidad</strong> y funcionamiento; realizamos los ajustes y correcciones necesarias; optimizamos el código fuente para una correcta estructura que beneficie en <strong>SEO</strong> y ¡listo! Publicamos tu <strong>página en la web</strong>.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix80"></div>
+
+<section class="container">
+    <div class="row">
+        <div class="col-sm-4 tright center-xs">
+            <div class="clearfix60 visible-lg"></div>
+            <div class="clearfix20 visible-md"></div>
+            <p class="f35">¿Necesitas de un<br class="visible-lg"/> sistema o herramienta<br class="visible-lg"/> que funcione en línea?</p>
+            <p class="f18">Platícanos un poco acerca de tu sistema, <br class="hidden-sm"/>herramienta o aplicación, para contactarte <br class="hidden-sm"/>y elaborarte una propuesta que se ajuste <br class="hidden-sm"/>a tus necesidades reales.</p>
+            <a href="https://www.genotipo.com/contactanos" class="btn-black">Me interesa un desarrollo</a>
+        </div>
+        <div class="col-sm-8">
+            <img src="https://www.genotipo.com/img/desarrollo-web-aguakan.png" alt="¿Deseas iniciar tu proyecto de desarrollo web con nosotros?" class="desarrollo-web-img"/>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿En qué más podemos ayudarte?</h4>
+                <h3>Conoce más acerca de nuestros otros servicios.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/diseno-paginas-web" class="btn-black m0-center">Diseño de páginas web</a>
+                    <a href="https://www.genotipo.com/marketing-digital" class="btn-black">Marketing digital</a>
+                    <a href="https://www.genotipo.com/branding-y-diseno-grafico" class="btn-black">Branding y diseño</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684303"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684303"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+</body>
+</html>

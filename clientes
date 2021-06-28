@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Conoce las Marcas y Empresas que han confiado en Genotipo.</title>
+  <meta name="description" content="Nuestros clientes dicen más que mil palabras, es por eso que nos sentimos orgullosos de trabajar para grandes marcas, empresas y proyectos.">
+  <meta name="keywords" content="clientes genotipo, nuestros clientes, clientes agencia, marcas, empresas, principales clientes, clientes de la empresa, genotipo clientes, clientes de diseño web, clientes de marketing, clientes de branding, clientes de diseño">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/clientes" />
+  <meta property="og:title" content="Conoce las Marcas y Empresas que han confiado en Genotipo." />
+  <meta property="og:description" content="Nuestros clientes dicen más que mil palabras, es por eso que nos sentimos orgullosos de trabajar para grandes marcas, empresas y proyectos." />
+  <meta property="og:image" content="https://www.genotipo.com/img/back-home.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/clientes" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Conoce las Marcas y Empresas que han confiado en Genotipo." />
+  <meta name="twitter:description" content="Nuestros clientes dicen más que mil palabras, es por eso que nos sentimos orgullosos de trabajar para grandes marcas, empresas y proyectos." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/back-home.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684306">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+<header class="header clientes">
+  <div class="noise"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 center">
+        <p class="f18 blanco"><strong>"GRACIAS POR CONFIAR EN NOSOTROS".</strong></p>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="ha-waypoint" data-animate-down="ha-header-small" data-animate-up="ha-header-large" data-offset="15%"></div>
+<div class="clearfix60"></div>
+<section class="container">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 col-sm-12 center">
+      <h6>Nuestros Clientes</h6>
+      <h3>Las marcas para las que trabajamos dicen más que mil palabras.</h3>
+
+      <div class="clearfix10"></div>
+      <h1>Ellos ya han confiado en nosotros.</h1>
+    </div>
+
+    <div class="col-sm-12 clientes wow fadeInUp">
+      <a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/pir-alu.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/aire-avanzado.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/canirac.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/vertigo.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/correduria10.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/xel-ha.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/sisevip.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/planner1.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/gia.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/residential-services.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/mapla.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/vrm.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/studio-arquitectura.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/photo-wedding.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/fairmont.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/prime-travel.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/comicx.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/nyx-hotel.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/remax.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/tm-inmobiliario.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/gif-financiera.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/porsche.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/tecnoceano.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/abc.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/yellow-transfers.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/chacchi.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/etp.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/came.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/rc-tours.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/tempo.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/become-group.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/mexico-cielo.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/scenic-studios.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/owen-lanark.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/urbi.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/apex.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/oasis.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/equipar.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/aguakan.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/bachoco.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/grupo-abaco.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/acura.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/pro-education.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/coast-and-town.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/caribe-maya.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/amerimed.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/anahuac.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/elstand.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/antigrafitti.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/coh.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/entertainology.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/rbka.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/cafe-riviera.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/endless-tours.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/real-resorts.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/interarq.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/why-consultors.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/agd.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/posadas.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/owen-group.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/prendalana.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/orbis.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/tropical-incentives.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/barcelo.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/altta-homes.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/cancun-center.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/xcaret.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/100-natural.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/enbolsa.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/black-pub.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/expo-congresos.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/anta.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/vacancy-rewards.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/pm.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/ilmarkio.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/ruths-chris.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/nano-depot.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/suzuki.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/mc3.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/dolphinaris.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/perfection.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/las-condes.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/alimpro.jpg" alt="Clientes" /></a><a href="javascript:;"><img src="https://www.genotipo.com/img/clientes/thermaflex.jpg" alt="Clientes" /></a>    </div>
+
+    <div class="clearfix30"></div>
+
+    <div class="col-sm-12 center">
+      <a href="javascript:;" class="btn-black mostar-lista">Mostrar listado completo de clientes</a>
+    </div>
+    <div class="clearfix30"></div>
+
+    <div class="lista-clientes">
+      <div class="col-sm-3">
+        <p>
+          100% Natural Restaurantes<br />
+          AACSA<br />
+          ABC Cancún<br />
+          Acura Cancún<br />
+          AGD Legal Consulting<br />
+          AGUAKAN<br />
+          Aire Avanzado<br />
+          Aizpuru y Asociados<br />
+          Akumal Real Estate<br />
+          Altta Homes<br />
+          Alimpro Films<br />
+          Aliwood Mediterráneo Producciones<br />
+          Amerimed Hospitals<br />
+          Ambar Estilo e Imagen<br />
+          APEX Tool Group<br />
+          Atmósfera Media<br />
+          BACHOCO<br />
+          Barceló Hoteles<br />
+          Bebélula<br />
+          Become Group<br />
+          CADU Inmobiliaria<br />
+          CANIRAC Cancún<br />
+          Café Riviera<br />
+          CAME<br />
+          CAMHU Humman Resources<br />
+          Cancún Center<br />
+          Capitan Hook<br />
+          Cenacolo<br />
+          GIA Administración<br />
+          Coast & Town<br />
+          Con Imagen Digital<br />
+          Consejo Mpal. Juventud Deporte<br />
+          Correduría 10<br />
+          Costa Maya Food Service<br />
+          Costa Maya México<br />
+          Crown Paradise Resorts<br />
+          Clipper Cancún<br />
+          Delphinus<br />
+          DESAH Food Services<br />
+          Despacho Constructor<br />
+          Dolphinaris<br />
+        </p>
+      </div>
+      <div class="col-sm-3">
+        <p>
+          E Body Cancún<br />
+          ECISA Construcciones<br />
+          El Rollo Parque acuático<br />
+          Endless Tours<br />
+          Espacio Turístico<br />
+          ETP Termofusión<br />
+          Expo Cancún Advertising Show<br />
+          Fairmont Mayacoba<br />
+          Farmacias Similares<br />
+          Farmashop<br />
+          FBN Producciones<br />
+          Fiesta Americana Condesa<br />
+          Fiesta Americana Grand Aqua<br />
+          Fundación Oasis<br />
+          Funever Photos<br />
+          Gadgets & Toys México<br />
+          GIF Financiera<br />
+          GMAR Bolsas y Empaques<br />
+          Go Explora<br />
+          Go Green Transfers<br />
+          Grupo Abaco<br />
+          Grupo Aljamia México<br />
+          Grupo Avícola del Caribe<br />
+          Grupo Discovery<br />
+          Grupo Expo Congresos<br />
+          Grupo My Secret<br />
+          Grupo SICA<br />
+          Grupo Xcaret<br />
+          Hotel Hacienda Real Del Caribe<br />
+          High-Sis Aires Acondicionados<br />
+          Host México<br />
+          Hotel Casa Turquesa<br />
+          Hotel Casazul<br />
+          In-Out Transfers<br />
+          Il Markio<br />
+          Interarq<br />
+          JL Contract Design<br />
+          Karisma Hotels & Resorts<br />
+          Krystal Hoteles<br />
+          La Pasteletería<br />
+          Laboratorios Limed<br />
+        </p>
+      </div>
+      <div class="col-sm-3">
+        <p>
+          Laboratorios Marzen<br />
+          Las Condes Residencial<br />
+          LAW Abogados<br />
+          Lite Built México<br />
+          Maat Handasa Arquitectos<br />
+          Mapla Pinturas<br />
+          Marina Chac Chi<br />
+          Marina Turquesa<br />
+          Maya Floral<br />
+          Marusa Constructora<br />
+          Mangus Fashion Hall<br />
+          Mc3 Arquitectos<br />
+          Miiluma Spa<br />
+          Municipio de Benito Juárez<br />
+          My Secret Parfum<br />
+          Nano Depot<br />
+          Néctares del Caribe<br />
+          Neoklin<br />
+          NOBA Pest Control<br />
+          Oasis Hoteles<br />
+          Olinca Water Sports<br />
+          Owen Group<br />
+          PAN (Partido Acción Nacional)<br />
+          Parasail Center<br />
+          Perfection Makeover & Laser Center<br />
+          Piazza Condotti Boutique<br />
+          Pinturas Martínez<br />
+          Pixel Press<br />
+          PB Group<br />
+          Planner 1 Events<br />
+          Plaza Aqua Marina<br />
+          Porsche<br />
+          Prendalana<br />
+          Prime Travel<br />
+          Procme Latina Packing Solutions<br />
+          PRO-MOS Media Services<br />
+          Quimek Aplicación Ambiental<br />
+          Rainforest<br />
+          RBKA Proveedora Hotelera<br />
+          RC Tours Cancún<br />
+          Real Bazar Boutiques<br />
+        </p>
+      </div>
+      <div class="col-sm-3">
+        <p>
+          Real Resorts Hotels<br />
+          Remax Riviera Maya<br />
+          Residencial Marina Turqueza<br />
+          Restaurante Gándara<br />
+          Ruths Chris México<br />
+          Said el Kadri<br />
+          Sabucan Bolsas<br />
+          Señor Frogs Cancún<br />
+          Sina Suites Cancún<br />
+          SISEVIP Seguridad Privada<br />
+          Soy QR<br />
+          Spa Itzá<br />
+          STI Telco<br />
+          Studio Arquitectura Cancún<br />
+          SUZUKI Cancún<br />
+          Swiss Boxes México<br />
+          Tecnoceano<br />
+          Tequila Barrel<br />
+          Tempo Consulting<br />
+          The Coffee Factory<br />
+          The Fives<br />
+          Themaflex Insulation México<br />
+          Tiendas Owen<br />
+          Tigres de Quintana Roo<br />
+          TM Inmobiliario<br />
+          Tropical Incentives<br />
+          UltraJewels<br />
+          Universidad Anáhuac Cancún<br />
+          Universal Franchises<br />
+          URBI Residencial<br />
+          Vacancy Rewards<br />
+          VRM Maquinaria<br />
+          Vertigo Solutions<br />
+          Viajes Caribe Maya<br />
+          VIP Realtors<br />
+          WHY Consultors<br />
+          Xel-Há<br />
+          Yaakun Yatch<br />
+          Yellow Transfers<br />
+          Zacbe<br />
+          Zen Arquitectos
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="clearfix60"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684306"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684306"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script type="text/javascript">
+var markers = [{
+    "partner": false,
+    "name": "Genotipo Querétaro",
+    "contact": null,
+    "address": "Calle Fray Ignacio Mariano de las Casas No.34, Edi. Grupo Milenio, Col. Cimatario.",
+    "city": "Querétaro",
+    "state": "QR",
+    "zip": "76030",
+    "phone": "(442) 962-61-98",
+    "email": "hola@genotipo.com",
+    "lat": "20.582987",
+    "lng": "-100.390050",
+    "red": false
+  },
+  {
+    "partner": false,
+    "name": "Genotipo Canc\u00fan",
+    "contact": null,
+    "address": "Av. Uxmal No. 14, Supermanzana 2 A, Mza. 2 Lt. 14, Edificio Aqua Marina.",
+    "city": "Canc\u00fan",
+    "state": "QROO",
+    "zip": "77500",
+    "phone": "(998) 206-88-53",
+    "email": "hola@genotipo.com",
+    "lat": "21.163993",
+    "lng": "-86.822511",
+    "red": false
+  }
+];
+
+window.onload = function() {
+  LoadMap();
+}
+
+function LoadMap() {
+  var mapOptions = {
+    center: new google.maps.LatLng(markers[0].lat, markers[0].lng),
+    zoom: 5,
+    panControl: true,
+    zoomControl: true,
+    scaleControl: true,
+    overviewMapControl: true,
+    streetViewControl: true,
+    scrollwheel: false,
+    styles: [{
+      "featureType": "administrative",
+      "elementType": "labels.text.fill",
+      "stylers": [{
+        "color": "#444444"
+      }]
+    }, {
+      "featureType": "landscape",
+      "elementType": "all",
+      "stylers": [{
+        "color": "#f2f2f2"
+      }]
+    }, {
+      "featureType": "poi",
+      "elementType": "all",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }, {
+      "featureType": "road",
+      "elementType": "all",
+      "stylers": [{
+        "saturation": -100
+      }, {
+        "lightness": 45
+      }]
+    }, {
+      "featureType": "road.highway",
+      "elementType": "all",
+      "stylers": [{
+        "visibility": "simplified"
+      }]
+    }, {
+      "featureType": "road.arterial",
+      "elementType": "labels.icon",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }, {
+      "featureType": "transit",
+      "elementType": "all",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }, {
+      "featureType": "water",
+      "elementType": "all",
+      "stylers": [{
+        "color": "#e1e1e1"
+      }, {
+        "visibility": "on"
+      }]
+    }],
+    zoomControlOptions: {
+      style: google.maps.ZoomControlStyle.SMALL
+    },
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+  var map = new google.maps.Map(document.getElementById("Gmap"), mapOptions);
+
+  //Create and open InfoWindow.
+  var infoWindow = new google.maps.InfoWindow();
+
+  var image = 'img/map.png';
+
+  for (var i = 0; i < markers.length; i++) {
+    var data = markers[i];
+    var myLatlng = new google.maps.LatLng(data.lat, data.lng);
+    var marker = new google.maps.Marker({
+      position: myLatlng,
+      map: map,
+      title: data.name,
+      icon: image
+    });
+
+    //Attach click event to the marker.
+    (function(marker, data) {
+      google.maps.event.addListener(marker, "click", function(e) {
+        var zip = "";
+        if (data.zip !== null) {
+          zip = ", " + data.zip;
+        }
+
+        infoWindow.setContent("<div class='oficinas'><strong class='nombre'>" + data.name +
+          "</strong><br/><span class='direccion'>" + data.address + zip +
+          "</span><br/><span class='telefono glyphicon glyphicon-phone-alt'>" + data.phone +
+          "</span><br/><span class='email glyphicon glyphicon-envelope'>" + data.email + "</span></div>");
+        infoWindow.open(map, marker);
+      });
+    })(marker, data);
+  }
+} -->
+</script>
+</body>
+
+</html>

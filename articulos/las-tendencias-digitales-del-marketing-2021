@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Las Tendencias Digitales del Marketing 2021</title>
+  <meta name="description" content="Sin duda este ha sido un año de revolución en la forma de comunicarnos.">
+  <meta name="keywords" content="">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021" />
+  <meta property="og:title" content="Las Tendencias Digitales del Marketing 2021" />
+  <meta property="og:description" content="Sin duda este ha sido un año de revolución en la forma de comunicarnos." />
+  <meta property="og:image" content="https://www.genotipo.com/img/articulos/1623261080.png" />
+  <meta property="og:url" content="https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Las Tendencias Digitales del Marketing 2021" />
+  <meta name="twitter:description" content="Sin duda este ha sido un año de revolución en la forma de comunicarnos." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/articulos/1623261080.png" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684319">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+
+<div class="clearfix50"></div>
+<section class="container">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+      <div class="center">
+        <h6>Artículos</h6>
+        <div class="clearfix20"></div>
+        <h1 class="titulo-noticia">Las Tendencias Digitales del Marketing 2021        </h1>
+      </div>
+    </div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <div class="center">
+        <img src="https://www.genotipo.com/img/articulos/1623261080.png" class="img-responsive imagen-noticia"
+          alt="">
+        <div class="fright">
+          <p><i class="fa fa-eye" aria-hidden="true"></i> <strong>43</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix10"></div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <h3>Sin duda este ha sido un año de revolución en la forma de comunicarnos.      </h3>
+      <div class="h30"></div>
+      <section>
+<div class="formatted_content">
+<div>Era cuesti&oacute;n de tiempo para que las empresas se dieran cuenta del potencial de crecimiento que existe si sus negocios se ven involucrados en todo el entorno digital. Ante un incremento inminente en el uso de la tecnolog&iacute;a para vivir el d&iacute;a a d&iacute;a, las marcas m&aacute;s reconocidas han apostado por digitalizar sus operaciones y estrategias comerciales para as&iacute; establecer planes de comunicaci&oacute;n utilizando plataformas online que les permita posicionarse de forma m&aacute;s r&aacute;pida y efectiva.<br /><br />Hoy por hoy, con el objetivo de adaptarnos a las exigencias y h&aacute;bitos de los consumidores de este nuevo mercado digital, tenemos la misi&oacute;n en pr&aacute;cticamente todos los negocios de los diferentes sectores, de comenzar a transformar&nbsp;la manera de comunicarnos hacia con nuestros clientes potenciales.<br /><br /><strong>&gt;&gt;&gt; TE PUEDE INTERESAR:&nbsp;</strong><a href="../../../articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" target="_blank" rel="noreferrer">&iquest;Sabes qu&eacute; es la Transformaci&oacute;n Digital? Conoce sus beneficios aqu&iacute;.</a><br /><br />As&iacute; que por tal motivo queremos compartirte algunas tendencias de comunicaci&oacute;n digital que en este a&ntilde;o 2021 est&aacute;n siendo muy beneficiosas para los negocios que las est&aacute;n implementando, ya sea para lograr alcanzar ventas m&aacute;s altas o simplemente para construir una imagen positiva de su marca.<br /><br /><strong>&iexcl;Toma nota! Porque al aplicar estas estrategias t&uacute; tambi&eacute;n podr&aacute;s conectar mejor con tus consumidores!<br /><br /></strong></div>
+<h2><strong><br />1.- Streamings y Webinars.<br /></strong></h2>
+<div><strong><br /></strong>A ra&iacute;z de la situaci&oacute;n que enfrentamos por la COVID-19 y el confinamiento que nos vimos obligados a realizar, este formato experiment&oacute; un incre&iacute;ble crecimiento; se convirti&oacute; en la herramienta perfecta tanto para ense&ntilde;ar c&oacute;mo para aprender de una manera eficaz. Si bien esto no es algo nuevo, en este &uacute;ltimo a&ntilde;o la apuesta por el desarrollo de estas&nbsp;<strong>plataformas de transmisiones en vivo</strong>&nbsp;han potenciado su efectividad a niveles nunca antes vistos. Ahora gracias a esto, hoy es posible conectar con las audiencias de forma directa y eliminar la distancia f&iacute;sica que nos alejaba de clientes potenciales fuera de nuestra ubicaci&oacute;n geogr&aacute;fica.<br /><br /><strong>Algunas de las tem&aacute;ticas o actividades que pueden ser impartidas con la ayuda de estas herramientas:</strong></div>
+<ul>
+<li>- Seminarios.</li>
+<li>- Clases online.</li>
+<li>- Conferencias.</li>
+<li>- Conciertos.</li>
+<li>- Exposiciones.</li>
+<li>- Lanzamientos de productos.</li>
+<li>- Activaciones publicitarias.</li>
+</ul>
+<div>&nbsp;</div>
+<div>La realidad es que las posibilidades son infinitas... El &uacute;nico l&iacute;mite es tu creatividad para encontrar la manera perfecta de conectar.&nbsp;<br /><br /></div>
+<h2><br /><strong>2.- Contenido Interactivo.&nbsp;<br /></strong></h2>
+<div><strong><br /></strong>Como su nombre lo dice, este tipo de contenidos son aquellos que exigen al usuario que visita tu web a llevar a cabo alguna acci&oacute;n en espec&iacute;fico, lo que&nbsp;<strong>aumenta la retenci&oacute;n y la participaci&oacute;n de las personas con tu marca</strong>. Dicho de otra forma, es un complemento dentro de tu estrategia de&nbsp;<strong>Content Marketing</strong>&nbsp;para generar compromiso hacia tu marca por parte de los usuarios, ya que incentivan la interacci&oacute;n. Cabe destacar que este tipo de contenidos permiten que el usuario viva experiencias m&aacute;s humanas a trav&eacute;s de distintos elementos, que adem&aacute;s,&nbsp;<strong>potencian la tasa de conversiones</strong>&nbsp;por su car&aacute;cter participativo.&nbsp;&nbsp;<br /><br /><strong>Ejemplos concretos de contenidos interactivos que m&aacute;s utilizan las marcas para generar engagement con sus consumidores:</strong></div>
+<ul>
+<li><strong>- Cuestionarios:</strong>&nbsp;Es una herramienta indispensable si quieres aclarar las necesidades de los clientes, ya que al finalizar este, normalmente se sugiere alguna alternativa que pueda ayudarle a cubrir dichas necesidades. Por lo que funge como una manera de ofrecerle al usuario un valor agregado durante su experiencia de compra. Adem&aacute;s, si son bien planeados e implementados pueden llegar a ser tu mejor aliado para comenzar a recabar una gran base de datos para futuras estrategias de marketing.&nbsp;</li>
+<li><strong>- Videos interactivos:&nbsp;</strong>Estos materiales audiovisuales le otorgan a los usuarios la posibilidad de crear su propia historia, o darles la posibilidad de decidir qu&eacute; es lo que se quiere ver, tal como los hacen los videos 360&ordm;. Para conseguir esto es claro que las personas deben llevar a cabo cierto movimiento o dar clic en alguna parte de la pantalla, y ya est&aacute;. &iexcl;La magia de la inmersi&oacute;n sucede!&nbsp;</li>
+<li><strong>- Calculadoras:</strong>&nbsp;La principal funci&oacute;n de estas, es presentar tu producto como una alternativa amigable para las finanzas de tus consumidores. &iquest;C&oacute;mo? Evidenciando lo que el cliente puede ahorrarse, puede generar o puede planificar seg&uacute;n sea el caso. Si este material es bien fundamentado con datos y estad&iacute;sticas reales, se convierten en el gancho perfecto para generar una venta.&nbsp;</li>
+</ul>
+<div>&nbsp;</div>
+<div>Existen un sin fin de alternativas que pueden ser utilizadas a tu favor, solamente basta con saber identificar aquellas que est&eacute;n alineadas con nuestra oferta al mercado y ponerlas en pr&aacute;ctica para medir su efectividad y su impacto en los usuarios. &iexcl;Pero no se apresuren!&nbsp;<strong>Pronto hablaremos mucho m&aacute;s sobre este tema en el blog,&nbsp;</strong>est&eacute;n pendientes.&nbsp;<br /><br /></div>
+<h2><br /><strong>3.- Marketing Multicanal.<br /></strong></h2>
+<div><strong><br /></strong>La presencia en m&uacute;ltiples redes sociales y/o canales son indispensables para la&nbsp;<strong>construcci&oacute;n de una fuerte presencia digital</strong>. Sin embargo, esto va mucho m&aacute;s all&aacute; de esto. M&aacute;s bien se refiere a contar con una verdadera estrategia para optimizar el contenido, la oferta de valor y los mensajes que se quieran transmitir en funci&oacute;n de los beneficios y caracter&iacute;sticas de cada uno de estos canales, brindando una&nbsp;<strong>experiencia de usuario interconectada</strong>, que por consecuencia&nbsp;<strong>aumenta los &iacute;ndices de satisfacci&oacute;n</strong>&nbsp;de las personas.&nbsp;<br /><br />Para conseguir esto nosotros te recomendamos elaborar un&nbsp;<strong>Customer Journey.&nbsp;</strong>Proceso que define todas las fases por las que un usuario debe pasar, desde que identifica su necesidad hasta la adquisici&oacute;n de un producto o servicio.&nbsp; &nbsp;<strong>&nbsp;<br />&nbsp;</strong>&nbsp;<strong>&nbsp;</strong><br />Cada d&iacute;a los usuarios exigen m&aacute;s y m&aacute;s experiencias personalizadas y humanas. Y la combinaci&oacute;n del&nbsp;<strong>Marketing Multicanal</strong>&nbsp;y un&nbsp;<strong>Customer Journey</strong>&nbsp;bien elaborado, es el camino que deber&iacute;as tomar para brindar este tipo de experiencias y conectar con tu audiencia.&nbsp;<br /><br /></div>
+<h2><br /><strong>4.-</strong>&nbsp;<strong>Storydoing.<br /></strong></h2>
+<div><strong><br /></strong>Si bien el Storytelling es un concepto que continua vigente y sigue aportando demasiado valor a la hora de vender, hoy m&aacute;s que nunca es momento de ponerle un ojo al&nbsp;<strong>Storydoing</strong>. Las personas ya no quieren escuchar historias (o tal ves s&iacute;, en caso de que realmente genere un impacto en sus vidas), pero lo que realmente buscan es crear su propia historia. Es decir, no hay nada m&aacute;s real que darle a la gente herramientas para vivir su propia historia.<br /><br /><strong>&iquest;C&oacute;mo identificar ese algo que la gente muere por vivir?<br /></strong>Muy f&aacute;cil, para llegar al Storydoing, primero tenemos que pasar por el Storytelling. No existe historia por vivir si no hay historia que contar. Sabemos que puede ser confuso, lo que queremos decir es que no son elementos que se han reemplazado, m&aacute;s bien se han complementado para construir algo mucho m&aacute;s poderoso.&nbsp;<br /><br /><strong>Storytelling:&nbsp;</strong>Identifica qu&eacute; le quieres contar a los usuarios de tu marca&nbsp;<br /><strong><br />Storydoing:&nbsp;</strong>Busca una manera creativa de hacer que se adue&ntilde;en de esa historia.&nbsp;<br />[GTip: puedes utilizar el contenido interactivo como un punto de partida.]<br /><br /></div>
+<h2><br /><strong>5.- B&uacute;squedas con Im&aacute;genes o Visual Search.<br /></strong></h2>
+<div><strong><br /></strong>Millones y millones de b&uacute;squedas se realizan d&iacute;a con d&iacute;a; pero hoy ya es diferente... Google y los Smartphones ahora les dan la posibilidad a los usuarios de realizar una b&uacute;squeda por medio de una imagen para obtener informaci&oacute;n sobre el contenido de dicho material. &iexcl;Pi&eacute;nsalo, es una herramienta sumamente incre&iacute;ble! &iquest;Cu&aacute;ntas veces no has visto algo por la calle y no tienes ni idea de c&oacute;mo buscar eso que llam&oacute; tu atenci&oacute;n? Pues esta oferta por parte de los buscadores le han dado al usuario la posibilidad de inmediatez y certeza para encontrar aquello que realmente quieren.&nbsp;<br /><br />De hecho es una herramienta tan buena que el 62% de los millenials prefieren la b&uacute;squeda visual que la de texto. Algo que las empresas pueden aprovechar perfectamente para atacar ese segmento de la poblaci&oacute;n inclinado a esta tendencia. Basta con cargar im&aacute;genes de alta calidad con un texto alternativo que incluya palabras clave de destino, agregar un mapa de sitio para darle a tus productos una mayor facilidad al momento de ser descubiertos y echar a volar tu creatividad para implementar estrategias con base al Visual Search.&nbsp;<br /><br /><br /><br />Estas son&nbsp;<strong>tendencias que sin duda est&aacute;n marcando el 2021</strong>&nbsp;y muy probablemente sigan evolucionando para brindar experiencias cada vez m&aacute;s personalizadas. Si bien pueden ser un factor clave para implementar dentro de tu empresa, no hay que perder de vista lo m&aacute;s importante.<br /><br />Hoy en d&iacute;a la comunicaci&oacute;n en general ha cambiado. Ya no se trata &uacute;nicamente de hablar de tu marca o producto, de por qu&eacute; eres experto en tu sector, los t&iacute;tulos que te respaldan, bla bla bla. Y no es con af&aacute;n de menospreciar ello, claro que toda comunicaci&oacute;n lleva un sustento, pero&nbsp;<strong>hoy m&aacute;s que nunca debes enfocarte en los usuarios.&nbsp;</strong><br /><br />Por supuesto que tus consumidores quieren saber todo lo que haces, pero primero que nada quieren sentirse identificados contigo, con tus valores, con el sentido de pertenencia que puedas ofrecer, con el valor que puedas agregar a sus vidas. Dicho en otras palabras, quieren consumir marcas con un sentido humano y con las que puedan formar un lazo emocional m&aacute;s all&aacute; de la parte comercial. Si consigues empatizar con tu audiencia, cr&eacute;enos... tu marca no saldr&aacute; de su cabeza.&nbsp;<br /><br />Por eso antes de llevar a la pr&aacute;ctica cualquiera de estas tendencias, hay que dise&ntilde;ar un&nbsp;<strong>plan de comunicaci&oacute;n centrado en el usuario</strong>. De tal forma que vivan y sientan tu marca, para que a largo plazo tengan un "mejor amigo" que los acompa&ntilde;e a donde sea que vayan (Dicho en t&eacute;rminos de marketing, ser Top of Mind dentro de tu categor&iacute;a.)<br /><br /><br />Si est&aacute;s interesado en saber m&aacute;s acerca de estas estrategias para aplicarlas en tu marca &iexcl;Genotipo te puede ayudar! Solo tienes que escribirnos y listo.<br /><a href="../../../contactanos" target="_blank" rel="noreferrer">https://www.genotipo.com/contactanos</a></div>
+</div>
+</section>
+<div class="push--top u-hide-on-template">&nbsp;</div>    </div>
+
+    <div class="clearfix30"></div>
+
+            <div class="clearfix30"></div>
+
+    <div class="col-sm-12 center">
+      <a href="https://www.genotipo.com/articulos" class="btn-black">Regresar
+        a Artículos</a>
+            <div class="clearfix30"></div>
+      <h2><strong>¿Te gustó o resultó interesante? Compártelo.</strong></h2>
+      <div class="clearfix10"></div>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021"
+        target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png"
+          border="0" alt="Google+" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" border="0" alt="LinkedIn" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?url=https://www.genotipo.com/articulos/las-tendencias-digitales-del-marketing-2021" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/pinterest.png" border="0" alt="Pinterest" /></a>
+    </div>
+  </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684319"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684319"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script>
+$(document).ready(function() {
+  $("#menu").addClass("black-menu");
+});
+</script>
+</body>
+
+</html>

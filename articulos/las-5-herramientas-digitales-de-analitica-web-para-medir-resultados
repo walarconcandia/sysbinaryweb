@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Las 5 Herramientas Digitales de Analítica Web para medir resultados</title>
+  <meta name="description" content="No hay mejor manera de alcanzar tus objetivos empresariales que conociendo a tus clientes potenciales.">
+  <meta name="keywords" content="">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados" />
+  <meta property="og:title" content="Las 5 Herramientas Digitales de Analítica Web para medir resultados" />
+  <meta property="og:description" content="No hay mejor manera de alcanzar tus objetivos empresariales que conociendo a tus clientes potenciales." />
+  <meta property="og:image" content="https://www.genotipo.com/img/articulos/1624470649.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Las 5 Herramientas Digitales de Analítica Web para medir resultados" />
+  <meta name="twitter:description" content="No hay mejor manera de alcanzar tus objetivos empresariales que conociendo a tus clientes potenciales." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/articulos/1624470649.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684316">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+
+<div class="clearfix50"></div>
+<section class="container">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+      <div class="center">
+        <h6>Artículos</h6>
+        <div class="clearfix20"></div>
+        <h1 class="titulo-noticia">Las 5 Herramientas Digitales de Analítica Web para medir resultados        </h1>
+      </div>
+    </div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <div class="center">
+        <img src="https://www.genotipo.com/img/articulos/1624470649.jpg" class="img-responsive imagen-noticia"
+          alt="">
+        <div class="fright">
+          <p><i class="fa fa-eye" aria-hidden="true"></i> <strong>74</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix10"></div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <h3>No hay mejor manera de alcanzar tus objetivos empresariales que conociendo a tus clientes potenciales.      </h3>
+      <div class="h30"></div>
+      <div>Una de las ventajas m&aacute;s importantes para las empresas dentro del mundo digital es la medici&oacute;n de datos. Esto consiste en recabar informaci&oacute;n que los usuarios generan al navegar e interactuar en un sitio web, y posteriormente obtener insights que nos permitan elaborar estrategias orientadas al comportamiento de los usuarios, de tal forma que nuestras acciones de marketing tengan un impacto mayor y obtengamos mejores resultados.<br /><br />En un principio este tipo de acciones estaban enfocadas en medir aspectos t&eacute;cnicos del sitio web, como tiempos de carga o funcionamiento en general del sitio. Sin embargo, ya sabemos que esto ha ido evolucionando respecto a la tendencia actual que define al usuario como el centro de la estrategia, por lo tanto, las herramientas de anal&iacute;tica se han focalizado en analizar cada una de las interacciones de los personas que visitan un sitio web.<br /><br /><em>[</em><strong><em>GTip</em></strong><em>: si bien ahora la interacci&oacute;n de los usuarios es lo m&aacute;s importante, no hay que descuidar los aspectos t&eacute;cnicos, ya que pueden ser clave para mejorar la experiencia del usuario.]</em><br /><br />Llevar a cabo estas pr&aacute;cticas y definir estrategias para impactar de mejor manera a nuestros clientes puede incrementar las conversiones y por ende el crecimiento de nuestro negocio. Por eso hoy queremos compartirles&nbsp;<strong>5 herramientas digitales para monitorear el comportamiento de los usuarios</strong>, pero antes, nos gustar&iacute;a mencionar c&oacute;mo es el proceso para analizar los datos que estas herramientas arrojan.</div>
+<div>&nbsp;</div>
+<div><br /><strong>&gt;&gt;&gt; TE PUEDE INTERESAR:&nbsp;</strong><a href="../../../articulos/las-tendencias-digitales-del-marketing-2021" target="_blank" rel="noreferrer">Las m&aacute;s interesantes tendencias de marketing digital de la segunda mitad del 2021.</a></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>&iquest;C&oacute;mo medir tus resultados para mejorar la estrategia de marketing digital de tu negocio?</strong></h2>
+<p>&nbsp;</p>
+<div><strong>- Define tus objetivos.<br /></strong>La anal&iacute;tica web debe estar alineada perfectamente a tus objetivos de negocio, por eso antes de comenzar a utilizar las herramientas, debes plantearte qu&eacute; es lo que quieres conseguir con tu p&aacute;gina web, redes sociales o cualquier canal digital que est&eacute;s utilizando dentro de tu estrategia de marketing digital.<strong><em><br /><br /></em></strong><strong>- Recopila los datos importantes.<br /></strong>Esto puede variar seg&uacute;n el tipo de negocio o p&aacute;gina web que tengas, pero es importante recabar toda la informaci&oacute;n que consideres &uacute;til y deseches la que no aporta valor a tu negocio. De esta manera tendr&aacute;s un panorama mucho m&aacute;s claro de c&oacute;mo moverte en el entorno digital.<br /><br /><strong>- Filtra los datos por segmentos de tu p&uacute;blico objetivo.<br /></strong>No sirve de nada tener una gran cantidad de datos si estos no est&aacute;n ordenados. Toma como punto de partida tus buyer&rsquo;s persona y comienza a segmentar los datos por cada tipo de cliente ideal, solo as&iacute; podr&aacute;s mejorar el rendimiento en tus embudos de venta.<br /><br /><strong>- Analiza y dise&ntilde;a planes de acci&oacute;n.</strong><br />Por ultimo, ya que tenemos los datos ordenados y segmentados, debemos llevar a cabo el an&aacute;lisis de los mismos para obtener conclusiones acerca de las acciones por realizar para atraer, retener y fidelizar a los clientes con nuestro proyecto.<br /><br /><em>[</em><strong><em>GTip</em></strong><em>: establece una serie de KPI&rsquo;s (indicadores de rendimiento) alineados a los resultados que esperas a corto y largo plazo con tu sitio.]</em><strong><br /><br /></strong>Ya teniendo mucho m&aacute;s claro el proceso de an&aacute;lisis, conozcamos algunas herramientas que pueden ser de ayuda para llevar a cabo esta tarea.</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h2><strong>5 herramientas digitales de an&aacute;lisis de datos para sitios web:</strong></h2>
+<p>&nbsp;</p>
+<h2><a href="https://analytics.google.com/analytics/web/provision/#/provision" target="_blank" rel="noreferrer"><strong>1.- Google Analytics</strong></a><strong><br /></strong></h2>
+<div>Sin lugar a duda esta plataforma es referencia cuando de anal&iacute;tica se trata. Google Analytics es una de las herramientas de medici&oacute;n y anal&iacute;tica web m&aacute;s utilizada por las empresas para medir resultados, ya que es gratuita, intuitiva y precisa.&nbsp;<br /><br />La plataforma est&aacute; dise&ntilde;ada para arrojar datos y estad&iacute;sticas sobre el rendimiento y comportamiento que los usuarios tienen con tu p&aacute;gina web. Algunos de los aspectos que podr&aacute;s medir mediante Analytics son los siguientes.&nbsp;</div>
+<ul>
+<li><strong>N&uacute;mero de visitantes:</strong>&nbsp;Todas las visitas que tu sitio web recibe.&nbsp;</li>
+<li><strong>Nuevos usuarios:&nbsp;</strong>La cantidad de personas que han visitado tu p&aacute;gina por primera vez.&nbsp;</li>
+<li><strong>P&aacute;ginas vistas:</strong>&nbsp;Indica la cantidad de p&aacute;ginas visitadas en tu sitio web. Detallando perfectamente cu&aacute;les son las secciones con mayor interacci&oacute;n dentro de tu sitio.&nbsp;</li>
+<li><strong>Origen de tus visitas:</strong>&nbsp;Se&ntilde;ala c&oacute;mo es que llegan los usuarios a tu p&aacute;gina; buscando la direcci&oacute;n exacta, mediante campa&ntilde;as de Google Ads, mediante posicionamiento org&aacute;nico, por redes sociales o referidos de otros sitios web.</li>
+<li><strong>T&eacute;rminos de b&uacute;squeda:</strong>&nbsp;Las palabras clave que utilizan los usuarios para encontrar tu negocio.</li>
+<li><strong>Porcentaje de rebote:&nbsp;</strong>Es el % de usuarios que entran a tu sitio y no interact&uacute;en con el mismo. De esta forma podemos saber si el contenido es relevante o debe ajustarse a las necesidades de los usuarios.&nbsp;</li>
+<li><strong>Datos demogr&aacute;ficos:</strong>&nbsp;Son aquellos datos que nos dicen de d&oacute;nde provienen los usuarios, cu&aacute;ntos a&ntilde;os tienen, si son hombres o mujeres, su edad y otros aspectos importantes que te ayudar&aacute;n a elaborar publicidad que conecte mejor con tu publico objetivo.&nbsp;</li>
+</ul>
+<div><em>[</em><strong><em>GTip</em></strong><em>: Una de las m&eacute;tricas m&aacute;s &uacute;tiles para elaborar un estrategia de posicionamiento org&aacute;nico y estar arriba de tus competidores.] &nbsp;<br /></em></div>
+<div>Cabe destacar que estos no son todos los datos que podemos obtener mediante esta herramienta. Existen una infinidad de par&aacute;metros que pueden aportarle valor a tus futuras acciones de marketing, y es por eso que Google Analytics es imprescindible para dise&ntilde;ar estrategias fundamentadas en data real.</div>
+<div>&nbsp;</div>
+<h2><br /><a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer"><strong>2.- Google Search Console</strong></a></h2>
+<div>Enfocada en supervisar la presencia de tu p&aacute;gina web dentro de los motores de b&uacute;squeda. Esta plataforma nos permite comprender c&oacute;mo funciona un sitio en su totalidad. Resulta muy &uacute;til para&nbsp;<strong>supervisar el tr&aacute;fico y optimizar el posicionamiento org&aacute;nico (SEO)&nbsp;</strong>de tu proyecto. Adem&aacute;s, mediante esta, puedes solucionar errores de servidor, tiempos de carga y problemas de seguridad.<br /><br /><em>[</em><strong><em>GTip:&nbsp;</em></strong><em>Integra Google Search Console y Google Analytics dentro de tu sitio web y obtendr&aacute;s un an&aacute;lisis de datos extremadamente completo.]</em><br /><br /></div>
+<h2><strong><br /></strong><a href="https://www.similarweb.com/" target="_blank" rel="noreferrer"><strong>3.- SimilarWeb</strong></a></h2>
+<div>Seg&uacute;n los desarrolladores, esta herramienta est&aacute; enfocada en proporcionar inteligencia del mercado global y multiplataforma para comprender, monitorear y aumentar tu participaci&oacute;n en market share digital.<br /><br />En t&eacute;rminos coloquiales, funciona para comprender a tu competencia y conocer en d&oacute;nde est&aacute;s parado dentro de un nicho de mercado. SimilarWeb ofrece m&eacute;tricas relevantes para la clasificaci&oacute;n de los sitios, n&uacute;mero de visitas que reciben, fuentes de tr&aacute;fico y muchos otros datos valiosos para mejorar el desempe&ntilde;o de tu web.<br /><br />Si bien la versi&oacute;n de paga es ideal para obtener un an&aacute;lisis completo, existe una alternativa gratuita con caracter&iacute;sticas muy buenas para conocer el mercado donde podr&iacute;as estar inmerso.<strong><br /></strong></div>
+<h2><strong><br /><br /></strong><a href="https://es.semrush.com/" target="_blank" rel="noreferrer"><strong>4.- Semrush</strong></a></h2>
+<div>Una herramienta (con costo) de Growth Hacking para mejorar tu posicionamiento en los buscadores con ciertas palabras clave y por ende incrementar los &iacute;ndices de competitividad que tu empresa puede tener ante el mercado.&nbsp;<br /><br />Semrush te permite aumentar dr&aacute;sticamente el porcentaje de usuarios que acceden a tu web y realizan una acci&oacute;n. Obteniendo como resultado final que los sitios ganen autoridad y se posicionen por encima de la competencia.&nbsp;<br /><br /><strong>Algunas de las ventajas que m&aacute;s destacan de esta herramienta son:</strong></div>
+<p>- B&uacute;squeda de nuevas palabras clave para el posicionamiento SEO.<br />- Estudiar y comprender a tus competidores.<br />- Conocer qu&eacute; tipo de publicidad y palabras clave utiliza tu competencia.<br />- Generar nuevos segmentos de mercado.</p>
+<div><br /><br /></div>
+<h2><strong>5.-&nbsp;</strong><a href="https://www.woorank.com/es/?genbar=1" target="_blank" rel="noreferrer"><strong>WooRank</strong></a></h2>
+<div>Si bien hemos compartido contigo principalmente herramientas para medir el comportamiento de los usuarios con tu sitio web y de esta manera optimizar los contenidos, dise&ntilde;ar Customer&rsquo;s Journeys, definir canales, entre otros aspectos, tambi&eacute;n es importante contar con una herramienta enfocada &uacute;nicamente a los aspectos t&eacute;cnicos y funcionales de tu sitio web. De esta forma le estaremos brindando a los usuarios la mejor experiencia posible y la fidelizaci&oacute;n con tu marca ser&aacute; mayor.<br /><br />WooRank es la mejor alternativa para esto, ya que funge como un verificador de SEO t&eacute;cnico, escaneando los aspectos que tienen importancia para el funcionamiento de la misma p&aacute;gina y d&aacute;ndote recomendaciones detalladas para mejorar la navegaci&oacute;n, velocidad y la auditor&iacute;a de tu sitio en los motores de b&uacute;squeda.<br /><br />En general, es una herramienta muy f&aacute;cil de utilizar que puede ahorrarte bastante tiempo y esfuerzo. Pues ya no tendr&aacute;s que realizar tareas para monitorear tu sitio de forma manual.<br /><br /><strong>Extensi&oacute;n de WooRank para Google Chrome:&nbsp;</strong><a href="https://www.woorank.com/es/extension" target="_blank" rel="noreferrer">https://www.woorank.com/es/extension</a><br /><br /><em>[</em><strong><em>GTip</em></strong><em>: realiza auditorias web con WooRank para ubicar cu&aacute;les aspectos funcionan y cu&aacute;les no funcionan dentro de tu sitio; es recomendable hacer esto por lo menos una vez al mes, de tal forma que si hay un error puedas solucionarlo en cuanto antes.]<br /><br /></em><strong><br /></strong>Finalmente es importante mencionar algo... puede que estas herramientas se perciban muy similares entre s&iacute;, sin embargo al integrar todas cuando realizas un monitoreo o an&aacute;lisis web, vas a obtener datos m&aacute;s completos y detallados. Por ende, tus estrategias estar&aacute;n sustentadas bajo datos reales de varias plataformas, y las acciones futuras que ejecutes tendr&aacute;n un mayor impacto para alcanzar tus objetivos.</div>    </div>
+
+    <div class="clearfix30"></div>
+
+            <div class="clearfix30"></div>
+
+    <div class="col-sm-12 center">
+      <a href="https://www.genotipo.com/articulos" class="btn-black">Regresar
+        a Artículos</a>
+            <div class="clearfix30"></div>
+      <h2><strong>¿Te gustó o resultó interesante? Compártelo.</strong></h2>
+      <div class="clearfix10"></div>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados"
+        target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png"
+          border="0" alt="Google+" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" border="0" alt="LinkedIn" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?url=https://www.genotipo.com/articulos/las-5-herramientas-digitales-de-analitica-web-para-medir-resultados" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/pinterest.png" border="0" alt="Pinterest" /></a>
+    </div>
+  </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684316"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684316"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script>
+$(document).ready(function() {
+  $("#menu").addClass("black-menu");
+});
+</script>
+</body>
+
+</html>

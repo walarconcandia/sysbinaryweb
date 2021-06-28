@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Especialistas en Branding, Diseño Gráfico, Promocional y Publicitario.</title>
+  <meta name="description" content="Transformamos marcas en verdaderas experiencias a través del branding, diseño gráfico y publicidad, lo que nos permite crear marcas únicas y memorables.">
+  <meta name="keywords" content="branding, creacion de marca, diseño de marca, diseño grafico, diseño editorial, diseño corporativo, publicidad, diseño promocional, ilustracion, diseño en queretaro, diseño en cancun, agencia de branding, agencia de diseño, agencia de publicidad">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/branding-y-diseno-grafico" />
+  <meta property="og:title" content="Especialistas en Branding, Diseño Gráfico, Promocional y Publicitario." />
+  <meta property="og:description" content="Transformamos marcas en verdaderas experiencias a través del branding, diseño gráfico y publicidad, lo que nos permite crear marcas únicas y memorables." />
+  <meta property="og:image" content="https://www.genotipo.com/img/back-home.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/branding-y-diseno-grafico" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Especialistas en Branding, Diseño Gráfico, Promocional y Publicitario." />
+  <meta name="twitter:description" content="Transformamos marcas en verdaderas experiencias a través del branding, diseño gráfico y publicidad, lo que nos permite crear marcas únicas y memorables." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/back-home.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684304">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+<header class="header branding-diseno">
+    <div class="noise"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 center">
+                <p class="f18 blanco"><strong>DISEÑOS INCREÍBLES, PARA MARCAS GRANDIOSAS.</strong></p>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="ha-waypoint" data-animate-down="ha-header-small" data-animate-up="ha-header-large" data-offset="15%"></div>
+<div class="clearfix60"></div>
+<section class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1 col-sm-12 center">
+            <h6>Branding y diseño</h6>
+            <h3>Transformamos marcas en verdaderas experiencias.</h3>
+            <p class="f18">
+                Una <strong>marca</strong> es más que un <strong>logotipo</strong>, sin duda alguna es el activo más valioso de una empresa. En <strong>Genotipo</strong> somos especialistas en crear <strong>marcas únicas</strong> y memorables, las cuales transmitan mensajes sólidos, coherentes y originales, todo esto mediante un proceso creativo, planificado y alineado con el ADN de tu empresa.
+                <br/><br/>
+                Sabemos que el diseño es parte fundamental para la correcta comunicación y posicionamiento de las marcas y las empresas, es por ello, que cada uno de nuestros diseños son elaborados cuidando hasta el más mínimo detalle, a fin de obtener resultados positivos y tangibles para el cliente.
+            </p>
+        </div>
+
+        <div class="clearfix50"></div>
+        <div class="col-md-10 col-md-offset-1 col-sm-12">
+            <h1 class="mb0">Branding</h1>
+            <h2 class="light">Creamos marcas memorables</h2>
+            <div class="clearfix10"></div>
+            <p>Para crear un <strong>branding</strong> exitoso a través del cual pueda lograrse un buen <strong>posicionamiento de marca</strong>, es necesario que reﬂeje los valores y atributos de la misma. Por ello, en Genotipo <strong>desarrollamos marcas</strong> con las siguientes características:</p>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix20"></div>
+
+<div class="branding-img-main">
+    <section class="container">
+        <div class="row">
+
+            <div class="col-md-5 col-md-offset-1 col-sm-12">
+                <p>
+                    <strong>Original y memorable.</strong> Se debe diferenciar del resto para que pueda ser identificada fácilmente, esto para lograr posicionarla en la mente de los consumidores y sobresalir de sus competidores.
+                    <br/><br/>
+                    <strong>Práctica y sintética.</strong> Deberá contar con los elementos justos y necesarios para lograr transmitir su valor único de forma correcta, y su imagen deberá ser apropiada para adaptarse en todo tipo de medios sin perder su identidad.
+                    <br/><br/>
+                    <strong>Perdurable y adaptable.</strong> Debe ser atemporal para resistir el paso del tiempo y que no se vuelva obsoleta. Flexible y con la capacidad de adaptación a los distintos medios en que será utilizada.
+                    <br/><br/>
+                    <strong>Eufónica y de fácil evocación.</strong> Que sea agradable al oído y que no resulte ridícula, de fácil lectura y pronunciación. Debe evitar las confusiones en su comunicación para que sea fácil de recordar.
+                    <br/><br/>
+                    <strong>Positiva y emocional.</strong> Con connotaciones positivas, ya que esto garantiza una mejor aceptación. Que transmita sensaciones, es necesario que el consumidor sienta, ya que cada vez tiene menos tiempo para entender y razonar.
+                    <br/><br/>
+                    <strong>Rentable.</strong> La marca como una experiencia 360° para lograr la satisfacción de sus consumidores y que esto genere la posible repetición de compra, convirtiéndola en una marca rentable.
+                </p>
+            </div>
+            <img src="https://www.genotipo.com/img/branding-main.png" alt="Branding y diseño" class="hidden-xs hidden-sm" />
+        </div>  
+
+        <div class="clearfix50"></div>
+
+        <div class="col-sm-12 center">
+            <h2 class="light">
+                En Genotipo<br/>
+                <strong>"Cuidaremos tu marca como si fuera nuestra".</strong>
+            </h2>
+        </div>
+    </section>
+</div>
+
+<div class="clearfix40"></div>
+
+<section class="header pleca-branding-diseno"></section>
+
+<div class="clearfix"></div>
+
+<section class="pleca-gris2">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 center">
+                <h1>Diseño gráfico y publicitario</h1>
+                <h2 class="light">Conceptos únicos, creativos e innovadores</h2>
+            </div>
+
+            <div class="clearfix30"></div>
+
+            <div class="col-sm-7 col-md-offset-2 col-md-5">
+                <p>
+                    Una vez definida tu marca, te ayudamos a diseñar todo el material gráfico, promocional y publicitario que esta requiera para logar una comunicación efectiva y coherente con tu público meta, todo esto sustentado en un sistema gráﬁco, conceptos creativos, funcionales, estéticos y homogéneos. 
+                </p>
+            </div>
+
+            <div class="col-sm-5 col-md-4">
+                <p class="pdl30 pd-xs">
+                    Diseño gráfico<br/>
+                    Diseño editorial<br/>
+                    Diseño de empaque (Packing)<br/>
+                    Diseño promocional y publicitario<br/>
+                    Diseño de material colateral<br/>
+                    Ilustración
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix50"></div>
+
+<section class="container">
+    <div class="row">
+        <div class="col-sm-4 center-xs tright">
+            <div class="clearfix60 visible-lg"></div>
+            <div class="clearfix20 visible-md"></div>
+
+            <p class="f18">
+                Queremos ayudarte<br class="visible-lg"/>
+                a lograr una marca sólida<br class="visible-lg"/>
+                y memorable a través<br class="visible-lg"/>
+                de conceptos y diseños creativos.
+            </p>
+            <p class="f35">
+                ¿Estás listo para<br class="visible-lg"/>
+                que nos hagamos<br class="visible-lg"/>
+                cargo de la imagen<br class="visible-lg"/>
+                de tu marca?
+            </p>
+            <a href="https://www.genotipo.com/contactanos" class="btn-black">¡Estoy listo!</a>
+        </div>
+
+        <div class="col-sm-8 center">
+            <img src="https://www.genotipo.com/img/banditos.png" alt="Branding y diseño" class="img-responsive branding-img"/>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿En qué más podemos ayudarte?</h4>
+                <h3>Conoce más acerca de nuestros otros servicios.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/diseno-paginas-web" class="btn-black m0-center">Diseño de páginas web</a>
+                    <a href="https://www.genotipo.com/desarrollo-web" class="btn-black">Desarrollo web</a>
+                    <a href="https://www.genotipo.com/marketing-digital" class="btn-black">Marketing digital</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684304"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684304"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script></body>
+</html>

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Creación y Diseño de Páginas Web responsivas, creativas y funcionales.</title>
+  <meta name="description" content="Páginas web profesionales y a la medida, pensadas en el usuario, con una correcta visualización y navegación en cualquier pantalla o dispositivo móvil.">
+  <meta name="keywords" content="paginas web estaticas, paginas web dinámicas, tiendas en linea, paginas de aterrizaje, landing pages, diseño de paginas web, diseño web, desarrollo web, diseño de paginas de internet, creacion de paginas web, diseño de sitios web, diseño web queretaro, diseño web cancun">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/diseno-paginas-web" />
+  <meta property="og:title" content="Creación y Diseño de Páginas Web responsivas, creativas y funcionales." />
+  <meta property="og:description" content="Páginas web profesionales y a la medida, pensadas en el usuario, con una correcta visualización y navegación en cualquier pantalla o dispositivo móvil." />
+  <meta property="og:image" content="https://www.genotipo.com/img/back-home.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/diseno-paginas-web" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Creación y Diseño de Páginas Web responsivas, creativas y funcionales." />
+  <meta name="twitter:description" content="Páginas web profesionales y a la medida, pensadas en el usuario, con una correcta visualización y navegación en cualquier pantalla o dispositivo móvil." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/back-home.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684303">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+<header class="header diseno-web">
+    <div class="noise"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 center">
+                <p class="f18 blanco"><strong>PÁGINAS WEB QUE SE VEN BIEN Y FUNCIONAN MEJOR.</strong></p>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="ha-waypoint" data-animate-down="ha-header-small" data-animate-up="ha-header-large" data-offset="15%"></div>
+<div class="clearfix60"></div>
+<section class="container">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 col-sm-12 center">
+            <h6>Diseño de páginas web</h6>
+            <h3>Creamos páginas web creativas, responsivas y funcionales.</h3>
+            <p class="f18">
+                Porque estamos convencidos que <strong>el usuario es primero</strong>, cada <strong>página web</strong> que diseñamos lo hacemos cuidando hasta el mínimo detalle, lo que nos permite <strong>crear sitios</strong> verdaderamente increíbles, dinámicos, fáciles de navegar y listos para su correcta visualización y navegación en cualquier pantalla o <strong>dispositivo móvil</strong>.
+                <br/><br/>
+                <strong>
+                    Nuestro equipo y experiencia nos permite diseñar cualquier tipo de página web que requieras.<br/>
+                    No importa la complejidad de tu proyecto, si lo puedes imaginar, lo podemos crear.
+                </strong>
+            </p>
+            <div class="clearfix50"></div>
+            <img src="https://www.genotipo.com/img/diseno-pagina-web-main.png" alt="Diseño Web" class="img-responsive img-pw-main" />
+        </div>
+    </div>
+</section>
+
+<div class="clearfix"></div>
+
+<section class="pleca-gris content">
+    <div class="clearfix20"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-5 col-md-offset-1">
+                <h1 class="mb0"><strong>Páginas web estáticas</strong></h1>
+                <div class="clearfix10"></div>
+                <p class="mb0">Este tipo de páginas son ideales para sitios sencillos, los cuales no requieren de estar modificando su información de manera constante, pero sí una buena <strong>presencia de marca</strong> en la web.</p>
+            </div>
+            <div class="clearfix20 visible-xs"></div>
+            <div class="col-sm-6 col-md-5">
+                <h1 class="mb0"><strong>Páginas web dinámicas</strong></h1>
+                <div class="clearfix10"></div>
+                <p class="mb0">Las <strong>páginas dinámicas</strong> son la mejor opción si lo que requieres es <strong>actualizar los contenidos</strong> de tu web de manera sencilla y en tiempo real, esto mediante un <strong>sistema administrador de contenidos</strong>.</p>
+            </div>
+            <div class="clearfix30"></div>
+            <div class="col-sm-6 col-md-5 col-md-offset-1">
+                <h1 class="mb0"><strong>Tiendas en línea</strong></h1>
+                <div class="clearfix10"></div>
+                <p class="mb0">El <strong>comercio electrónico</strong> es la mejor opción para impulsar la <strong>venta en línea</strong> de tus productos o servicios, a través de un <strong>sitio funcional</strong>, estético, seguro y sobre todo, de <strong>fácil navegación</strong>.</p>
+            </div>
+            <div class="clearfix20 visible-xs"></div>
+            <div class="col-sm-6 col-md-5">
+                <h1 class="mb0"><strong>Páginas de aterrizaje</strong></h1>
+                <div class="clearfix10"></div>
+                <p class="mb0">Las también llamadas <strong>landing pages</strong> son una excelente opción para la obtención de prospectos reales, y complementar así, tu estrategia de <strong>marketing online</strong> y <strong>campañas de pago</strong> por clic. </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix"></div>
+
+<section class="header pleca-diseno-web">
+    <div class="middle-align dispagweb center">
+        <h2 class="light">En Genotipo</h2>
+        <h2><strong>"Transformamos tu página web en tu mejor herramienta de ventas".</strong></h2>
+    </div>
+</section>
+
+<div class="clearfix50"></div>
+
+<section class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-10 col-md-offset-1">
+            <h2 class="light">Aspectos que implementamos en cada diseño web que realizamos.</h2>
+        </div>
+
+        <div class="clearfix30"></div>
+
+        <div class="col-sm-6 col-md-5 col-md-offset-1">
+            <h2><strong>Diseño personalizado</strong></h2>
+            <p>Para nosotros cada cliente, empresa o proyecto son únicos y el diseño web no es la excepción. En <strong>Genotipo</strong>, somos enemigos de las plantillas o diseños preestablecidos, por ello creamos layouts e <strong>interfaces web únicas y personalizadas</strong>, respetando los siempre lineamientos gráficos de su marca.</p>
+        </div>
+        <div class="clearfix40 visible-xs"></div>
+        <div class="col-sm-6 col-md-5">
+            <h2><strong>Desarrollo a la medida</strong></h2>
+            <p>No estamos en contra de plataformas y sistemas preestablecidos, sin embargo, preferimos el <strong>desarrollo</strong> con código propio, esto nos permite tener el control sobre la <strong>funcionalidad</strong> y comportamiento del sitio, así como cubrir las necesidades reales del proyecto de manera específica y sin depender de terceros.</p>
+        </div>
+
+        <div class="clearfix40"></div>
+
+        <div class="col-sm-6 col-md-5 col-md-offset-1">
+            <h2><strong>Diseño Responsivo (Responsive design)</strong></h2>
+            <p>Todos y cada uno de nuestros desarrollos están hechos de <strong>manera responsiva</strong>, por lo que el <strong>diseño de tu página</strong> se adapta a cualquier pantalla (escritorio, móvil y tableta) sin sacrificar <strong>usabilidad</strong> lo que genera una mejor <strong>experiencia de navegación</strong>.</p>
+        </div>
+        <div class="clearfix40 visible-xs"></div>
+        <div class="col-sm-6 col-md-5">
+            <h2><strong>Desarrollo Escalable</strong></h2>
+            <p>Realizamos cada <strong>página web</strong> de tal modo que pueda ser <strong>escalable</strong>, esto con la finalidad de poder crecer el sitio y adaptarse a los cambios sin afectar su estructura base, logrando así una mayor periodicidad de la misma y manteniéndola vigente en todo.</p>
+        </div>
+
+        <div class="clearfix40"></div>
+
+        <div class="col-sm-6 col-md-5 col-md-offset-1">
+            <h2><strong>UI design / UX design</strong></h2>
+            <p>Nuestro <strong>diseño y desarrollo web</strong> está enfocado en ser <strong>amigable con el usuario</strong> a través de un correcto <strong>diseño de interfaz</strong>, obteniendo así, una navegación práctica, sencilla y coherente, lo que permite crear una verdadera <strong>experiencia de usuario</strong>.</p>
+        </div>
+        <div class="clearfix40 visible-xs"></div>
+        <div class="col-sm-6 col-md-5">
+            <h2><strong>Optimización Web</strong></h2>
+            <p>Cada <strong>sitio desarrollado</strong> por nosotros está <strong>optimizado</strong> de la mejor manera, lo que beneficia en tiempo de carga y aspectos esenciales para un buen <strong>posicionamiento orgánico (SEO)</strong> en los distintos <strong>motores de búsqueda</strong>.</p>
+        </div>
+
+        <div class="clearfix40"></div>
+
+        <div class="col-sm-6 col-md-5 col-md-offset-1">
+            <h2><strong>Autoadministrables</strong></h2>
+            <p>Implementamos <strong>Sistemas Administradores de Contenido (CMS)</strong> a través del cuales tendrás el control absoluto de tu página, dichos sistemas permiten crear, editar o eliminar información de manera sencilla y en tiempo real, sin la necesidad de contar con conocimientos previos en <strong>diseño</strong> o <strong>programación</strong>.</p>
+        </div>
+        <div class="clearfix40 visible-xs"></div>
+        <div class="col-sm-6 col-md-5">
+            <h2><strong>Tecnología en desarrollo</strong></h2>
+            <p>Nuestras <strong>páginas web</strong> están desarrolladas bajo los más <strong>altos estándares de calidad</strong> y con los <strong>lenguajes de programación</strong> más actuales y óptimos, para crear sitios funcionales, lo que nos permite garantizar una correcta compatibilidad con los distintos <strong>navegadores y sistemas operativos</strong>.</p>
+        </div>
+
+        <div class="clearfix70"></div>
+
+    </div>
+</section>
+
+<div class="clearfix"></div>
+
+<div class="pleca-gris2">
+    <div class="proceso-img">
+        <img src="https://www.genotipo.com/img/procesos-img.png" alt="Procesos" class="fly hidden-xs" />
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-10 col-md-offset-1">
+                    <h2>Nuestro proceso</h2>
+                    <p class="f18">El éxito de tu proyecto es nuestro objetivo, por ello implementamos un método práctico y funcional.</p>
+                </div>
+
+                <div class="clearfix20"></div>
+                <div class="col-sm-2 col-md-1 col-md-offset-1 hidden-xs">
+                    <div class="clearfix10"></div>
+                    <img src="https://www.genotipo.com/img/pro-1.png" alt="Proceso 1" class="img-responsive" />
+                </div>
+                <div class="col-sm-7 col-md-6 col-md-offset-1">
+                    <div class="paso-proceso">
+                        <h3>1. Planificamos</h3>
+                        <p>Todo comienza contigo. Escuchamos tu idea, requerimientos y necesidades; analizamos a tu competencia y las <strong>áreas de oportunidad</strong> de tu marca; organizamos la infomación y creamos una estructura sólida, coherente y funcional.</p>
+                    </div>
+                </div>
+
+                <div class="clearfix40"></div>
+
+                <div class="col-sm-2 col-md-1 col-md-offset-1 hidden-xs">
+                    <div class="clearfix20"></div>
+                    <img src="https://www.genotipo.com/img/pro-2.png" alt="Proceso 2" class="img-responsive" />
+                </div>
+                <div class="col-sm-7 col-md-6 col-md-offset-1">
+                    <div class="paso-proceso">
+                        <h3>2. Bocetamos y diseñamos</h3>
+                        <p>Bocetamos los layouts del sitio mediante <strong>wireframes</strong>, esto nos permite definir la mejor opción de retícula y distribución de elementos gráficos, para después armar el diseño final de las secciones de manera digital, las cuales muestren el look final de la web.</p>
+                    </div>
+                </div>
+
+                <div class="clearfix40"></div>
+
+                <div class="col-sm-2 col-md-1 col-md-offset-1 hidden-xs">
+                    <div class="clearfix20"></div>
+                    <img src="https://www.genotipo.com/img/pro-3.png" alt="Proceso 3" class="img-responsive" />
+                </div>
+                <div class="col-sm-7 col-md-6 col-md-offset-1">
+                    <div class="paso-proceso">
+                        <h3>3. Maquetamos y programamos</h3>
+                        <p>Maquetamos cada una de las secciones del sitio, ajustándolo de manera responsiva a las diferentes resoluciones o dispositivos; configuramos las herramientas y programamos el funcionamiento para su correcto uso, navegación y visualización.</p>
+                    </div>
+                </div>
+
+                <div class="clearfix40"></div>
+
+                <div class="col-sm-2 col-md-1 col-md-offset-1 hidden-xs">
+                    <div class="clearfix20"></div>
+                    <img src="https://www.genotipo.com/img/pro-4.png" alt="Proceso 4" class="img-responsive" />
+                </div>
+                <div class="col-sm-7 col-md-6 col-md-offset-1">
+                    <div class="paso-proceso">
+                        <h3>4. Probamos, optimizamos y publicamos</h3>
+                        <p>Hacemos <strong>pruebas de usabilidad</strong> y funcionamiento; realizamos los ajustes y correcciones necesarias; optimizamos el código fuente para una correcta estructura que beneficie en <strong>SEO</strong> y ¡listo! Publicamos tu <strong>página en la web</strong>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="clearfix70"></div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8 hidden-xs">
+            <img src="https://www.genotipo.com/img/diseno-proyecto-orbis.png" alt="¿Estás listo para iniciar tu página web con nosotros?" class="diseno-web-img"/>
+        </div>
+        <div class="col-sm-4 center-xs">
+            <div class="clearfix60 visible-lg"></div>
+            <div class="clearfix20 visible-md"></div>
+            <p class="f18">En <strong>Genotipo</strong> estamos listos para <br class="visible-lg"/>
+                <strong>diseñar tu página web</strong> de manera <br class="visible-lg"/>
+                creativa y funcional.</p>
+            <p class="f35">Y tú, ¿estás listo para <br class="visible-lg"/>que diseñemos tu <br class="visible-lg"/>página web?</p>
+            <div class="clearfix20"></div>
+            <a href="https://www.genotipo.com/contactanos" class="btn-black">¡Estoy listo!</a>
+        </div>
+        <div class="clearfix"></div>
+        <div class="col-sm-8 center visible-xs">
+            <img src="https://www.genotipo.com/img/diseno-proyecto-orbis.png" alt="¿Estás listo para iniciar tu página web con nosotros?" class="diseno-web-img"/>
+        </div>
+    </div>
+</div>
+
+<div class="clearfix"></div>
+<div class="clearfix20 visible-xs"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿En qué más podemos ayudarte?</h4>
+                <h3>Conoce más acerca de nuestros otros servicios.</h3>
+                <div class="clearfix20 visible-xs"></div>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/desarrollo-web" class="btn-black m0-center mt0">Desarrollo web</a>
+                    <div class="clearfix10 visible-xs"></div>
+                    <a href="https://www.genotipo.com/marketing-digital" class="btn-black mt0">Marketing digital</a>
+                    <div class="clearfix10 visible-xs"></div>
+                    <a href="https://www.genotipo.com/branding-y-diseno-grafico" class="btn-black mt0">Branding y diseño</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684303"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684303"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script></body>
+</html>

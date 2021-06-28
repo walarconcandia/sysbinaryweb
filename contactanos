@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Contáctanos y déjanos ser tu próxima Agencia de Marketing y Web.</title>
+  <meta name="description" content="Contáctenos y permítanos realizar su próxima página web, llevar su estrategia de marketing online y apoyarlo en cualquier servicio de branding y diseño.">
+  <meta name="keywords" content="contacto genotipo, genotipo, contactenos, contactanos, agencia de publicidad, agencia de diseño, agencia de marketing, agencia de social media, agencia web, soluciones profesionales, servicios de paginas web, agencia en cancun, agencia en mexico, agencia en queretaro">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/contactanos" />
+  <meta property="og:title" content="Contáctanos y déjanos ser tu próxima Agencia de Marketing y Web." />
+  <meta property="og:description" content="Contáctenos y permítanos realizar su próxima página web, llevar su estrategia de marketing online y apoyarlo en cualquier servicio de branding y diseño." />
+  <meta property="og:image" content="https://www.genotipo.com/img/back-home.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/contactanos" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Contáctanos y déjanos ser tu próxima Agencia de Marketing y Web." />
+  <meta name="twitter:description" content="Contáctenos y permítanos realizar su próxima página web, llevar su estrategia de marketing online y apoyarlo en cualquier servicio de branding y diseño." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/back-home.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684308">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+<header class="header contactanos">
+    <div class="noise"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 center">
+                <p class="f18 blanco"><strong>¿DESEAS TRABAJAR CON NOSOTROS?</strong></p>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="ha-waypoint" data-animate-down="ha-header-small" data-animate-up="ha-header-large" data-offset="15%"></div>
+<div class="clearfix60"></div>
+<section class="container">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 col-sm-12 center">
+            <h6>Contáctanos</h6>
+            <h3><strong>Querétaro</strong> (442) 251 38 05 | <strong>Cancún</strong> (998) 206 88 53</h3>
+
+            <div class="clearfix10"></div>
+        </div>
+        <div class="formulario">
+            <div class="col-sm-12 center">
+                <h1>Cuéntanos más de tu proyecto, dudas o comentarios.</h1>
+                <div class="clearfix10"></div>
+            </div>
+            <div class="col-md-offset-2 col-md-4 col-sm-6">
+                <label>Nombre: *</label>
+                <input type="text" name="nombre" />
+                <label>Teléfono: *</label>
+                <input type="tel" name="telefono" />
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <label>Correo electrónico: *</label>
+                <input type="email" name="email" />
+                <label>Empresa / Organización:</label>
+                <input type="text" name="empresa" />
+            </div>
+            <div class="col-md-offset-2 col-md-8 col-sm-12">
+                <label>¿En qué te podemos ayudar? *</label>
+                <div class="clearfix"></div>
+                <input id="chk1" class="ind" type="checkbox" name="Diseño web" value="Diseño web" /> <label class="minf ind1" for="chk1"><span></span>Diseño web</label>
+                <input id="chk2" class="ind" type="checkbox" name="Desarrollo" value="Desarrollo" /> <label class="minf ind1" for="chk2"><span></span>Desarrollo</label>
+                <input id="chk3" class="ind" type="checkbox" name="Marketing digital" value="Marketing digital" /> <label class="minf ind1" for="chk3"><span></span>Marketing digital</label>
+                <input id="chk4" class="ind" type="checkbox" name="Branding / diseño" value="Branding / diseño" /> <label class="minf ind1" for="chk4"><span></span>Branding / diseño</label>
+                <input id="chk5" type="checkbox" name="Duda o comentario" value="Duda o comentario" /> <label class="minf nol gnl" for="chk5"><span></span>Duda o comentario</label>
+                <div class="clearfix10"></div>
+                <label class="chang">Platícanos un poco acerca de tu proyecto y necesidades: *</label>
+                <textarea name="mensaje"></textarea>
+            </div>
+            <div class="col-sm-6 col-md-4 col-md-offset-2">
+                <div class="g-recaptcha inline" data-sitekey="6Lc6TQwTAAAAAEIxCzilayfXYZs7NJja57NjNm7N"></div>
+            </div>
+            <div class="clearfix20 visible-xs"></div>
+            <div class="col-sm-6 col-md-4">
+                <input type="button" id="enviar" class="fright" value="Enviar" />
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="msg center">
+            <div class="col-sm-12">
+                <img src="https://www.genotipo.com/img/gracias.png" alt="Gracias!" />
+                <div class="clearfix10"></div>
+                <h1>¡Gracias!</h1>
+                <div class="clearfix10"></div>
+                <p>
+                    <strong>Tu mensaje ha sido enviado.</strong><br/>
+                    En breve, un miembro de nuestro equipo se pondrá en contacto contigo.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="clearfix60"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-9 col-md-8 col-md-offset-1">
+                <h2>O si lo prefieres, visítanos... Será un placer recibirte.</h2>
+                <div class="clearfix10"></div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>
+                            <span class="f18"><strong>Oficina Querétaro</strong></span><br/>
+                            Av. Armando Birlain Shaffler, Corporativo Central Park, Torre 1, Piso 2, Oficina 2-A, Santiago de Querétaro, Qro.
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            <span class="f18"><strong>Oficina Cancún</strong></span><br/>
+                            Av. Uxmal No. 14, Supermanzana 2 A, Mza. 2 Lt. 14, Edificio Aqua Marina.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="clearfix20 visible-xs"></div>
+
+            <div class="col-sm-3 sec-contacto">
+                <h2>Síguenos.</h2>
+                <div class="clearfix10"></div>
+                <span class="redes">
+                    <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook" style="color: #000;background: transparent;">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram" style="color: #000;background: transparent;">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                    <a href="http://twitter.com/genotipo" target="_blank" class="twitter" style="color: #000;background: transparent;">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                    <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin" style="color: #000;background: transparent;">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                </span>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+<div id="Gmap"> </div>
+<div class="clearfix"></div>
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684308"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684308"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script><script>
+    $(document).ready(function () {
+        var $url = 'https://www.genotipo.com/';
+        // CONDICIONES CHECKBOX
+        $(".ind1").click(function () {
+            $("#chk5").prop('checked', false);
+            $(".chang").text("Platícanos un poco acerca de tu proyecto y necesidades: *");
+        });
+
+        $(".gnl").click(function () {
+            $(".ind").prop('checked', false);
+            $(".chang").text("Mensaje: *");
+        });
+
+        // FUNCIONES DE ENVIO //
+        $("#enviar").click(function () {
+            $("#enviar").fadeOut();
+            $("#ajaxBusy").fadeIn(300);
+            var pass = "1";
+            var obj = {
+                'accion': 'contacto',
+                'forma': 'index'
+            };
+
+            $('.formulario input, .formulario textarea, .formulario select').each(function () {
+                var data = $(this).val();
+                if (data !== "") {
+                    obj[$(this).attr('name')] = data;
+                }
+                $(this).removeClass('error');
+                if (data === '' && (!$(this).hasClass('norequired'))) {
+                    $(this).addClass('error');
+                    pass = "0";
+                    return false;
+                }
+            });
+
+            var interes = "";
+            $(".formulario input[type='checkbox']").each(function () {
+                if ($(this).is(':checked')) {
+                    interes = $(this).val() + ", " + interes;
+                }
+            });
+
+            if (interes !== "") {
+                obj["interes"] = interes;
+            } else {
+                $(".formulario input[type='checkbox']").addClass("error");
+                pass = "0";
+            }
+
+            if (pass !== "0") {
+                $.post('includes/_functions.php', obj, function (data) {
+                    if (data === "0") {
+                        $("#ajaxBusy").fadeOut(300);
+                        $("#enviar").fadeIn();
+                    } else {
+                        window.location = $url+"gracias";
+                    }
+                });
+            } else {
+                $("#ajaxBusy").fadeOut(300);
+                $("#enviar").fadeIn();
+            }
+        });
+
+        // LOADER FULL SCREEN
+        $('body').append('<div id="ajaxBusy"><div class="ui-widget-overlay"></div><img src="img/load.gif">      </div>');
+
+        $('#ajaxBusy').css({
+            display: "none",
+            position: "fixed",
+            top: "0px",
+            left: "0px",
+            height: $(window).height(),
+            width: "100%",
+            backgroundColor: "rgba(255,255,255, 0.9)",
+            textAlign: "center",
+            zIndex: "999"
+        });
+
+        $('#ajaxBusy img').css({
+            paddingTop: "17%"
+        });
+
+    });
+</script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCtlCJnfrK7Z1FALD5FWZwx-EdvWKZHt64"></script>
+
+<script type="text/javascript">
+    var markers = [
+        {"partner": false, "name": "Genotipo Querétaro", "contact": null, "address": "Av. Armando Birlain Shaffler, Corporativo Central Park, Torre 1, Piso 2, Oficina 2-A", "city": "Querétaro", "state": "QR", "zip": "76090", "phone": "(442) 251-38-05", "email": "hola@genotipo.com", "lat": "20.582987", "lng": "-100.390050", "red": false},
+        {"partner": false, "name": "Genotipo Canc\u00fan", "contact": null, "address": "Av. Uxmal No. 14, Supermanzana 2 A, Mza. 2 Lt. 14, Edificio Aqua Marina.", "city": "Canc\u00fan", "state": "QROO", "zip": "77500", "phone": "(998) 206-88-53", "email": "hola@genotipo.com", "lat": "21.163993", "lng": "-86.822511", "red": false}];
+
+    window.onload = function () {
+        LoadMap();
+    }
+    function LoadMap() {
+        var mapOptions = {
+            center: new google.maps.LatLng(markers[0].lat, markers[0].lng),
+            zoom: 5,
+            panControl: true,
+            zoomControl: true,
+            scaleControl: true,
+            overviewMapControl: true,
+            streetViewControl: true,
+            scrollwheel: false,
+            styles: [{"featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{"color": "#444444"}]}, {"featureType": "landscape", "elementType": "all", "stylers": [{"color": "#f2f2f2"}]}, {"featureType": "poi", "elementType": "all", "stylers": [{"visibility": "off"}]}, {"featureType": "road", "elementType": "all", "stylers": [{"saturation": -100}, {"lightness": 45}]}, {"featureType": "road.highway", "elementType": "all", "stylers": [{"visibility": "simplified"}]}, {"featureType": "road.arterial", "elementType": "labels.icon", "stylers": [{"visibility": "off"}]}, {"featureType": "transit", "elementType": "all", "stylers": [{"visibility": "off"}]}, {"featureType": "water", "elementType": "all", "stylers": [{"color": "#e1e1e1"}, {"visibility": "on"}]}],
+            zoomControlOptions: {
+                style: google.maps.ZoomControlStyle.SMALL
+            },
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(document.getElementById("Gmap"), mapOptions);
+
+        //Create and open InfoWindow.
+        var infoWindow = new google.maps.InfoWindow();
+
+        var image = 'img/map.png';
+
+        for (var i = 0; i < markers.length; i++) {
+            var data = markers[i];
+            var myLatlng = new google.maps.LatLng(data.lat, data.lng);
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: data.name,
+                icon: image
+            });
+
+            //Attach click event to the marker.
+            (function (marker, data) {
+                google.maps.event.addListener(marker, "click", function (e) {
+                    var zip = "";
+                    if (data.zip !== null) {
+                        zip = ", " + data.zip;
+                    }
+
+                    infoWindow.setContent("<div class='oficinas'><strong class='nombre'>" + data.name + "</strong><br/><span class='direccion'>" + data.address + zip + "</span><br/><span class='telefono glyphicon glyphicon-phone-alt'>" + data.phone + "</span><br/><span class='email glyphicon glyphicon-envelope'>" + data.email + "</span></div>");
+                    infoWindow.open(map, marker);
+                });
+            })(marker, data);
+        }
+    }
+</script>
+</body>
+</html>

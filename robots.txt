@@ -1,0 +1,9 @@
+# robotstxt.org/
+
+Sitemap: https://www.genotipo.com/sitemap.xml
+
+User-agent: *
+Disallow: /includes/
+Disallow: /fonts/
+Disallow: /backend/
+Disallow: /old/

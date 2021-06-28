@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Descubre la Importancia de implementar la Transformación Digital en tu Empresa</title>
+  <meta name="description" content="Conoce que es este concepto y cuales son sus beneficios.">
+  <meta name="keywords" content="">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" />
+  <meta property="og:title" content="Descubre la Importancia de implementar la Transformación Digital en tu Empresa" />
+  <meta property="og:description" content="Conoce que es este concepto y cuales son sus beneficios." />
+  <meta property="og:image" content="https://www.genotipo.com/img/articulos/1620840964.png" />
+  <meta property="og:url" content="https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Descubre la Importancia de implementar la Transformación Digital en tu Empresa" />
+  <meta name="twitter:description" content="Conoce que es este concepto y cuales son sus beneficios." />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/articulos/1620840964.png" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684415">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+
+<div class="clearfix50"></div>
+<section class="container">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+      <div class="center">
+        <h6>Artículos</h6>
+        <div class="clearfix20"></div>
+        <h1 class="titulo-noticia">Descubre la Importancia de implementar la Transformación Digital en tu Empresa        </h1>
+      </div>
+    </div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <div class="center">
+        <img src="https://www.genotipo.com/img/articulos/1620840964.png" class="img-responsive imagen-noticia"
+          alt="TRANSFORMACION-DIGITAL">
+        <div class="fright">
+          <p><i class="fa fa-eye" aria-hidden="true"></i> <strong>43</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix10"></div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <h3>Conoce que es este concepto y cuales son sus beneficios.      </h3>
+      <div class="h30"></div>
+      <p style="text-align: left;">La era en la que vivimos est&aacute; cambiando m&aacute;s que nunca, el desarrollo en plataformas digitales est&aacute; en constante evoluci&oacute;n d&iacute;a con d&iacute;a. Actualmente es imposible imaginarse un mundo alejado de las pantallas; por medio de nuestros dispositivos realizamos la mayor parte de actividades de nuestro d&iacute;a. Desde pedir comida, servicios de transporte, planear unas vacaciones, hasta comprar cualquier cantidad de bienes y servicios desde internet.<br /><br />Por supuesto algunas empresas se dieron cuenta de esto e instant&aacute;neamente sintieron la necesidad de adaptarse y atender las conductas de consumo de cada uno de los usuarios. Por otro lado, aquellos que mantuvieron su modelo de negocios tradicional, han sufrido cierto impacto negativo en el crecimiento de su empresa.<br /><br />No es ninguna casualidad que las grandes compa&ntilde;&iacute;as est&eacute;n incursionando y apost&aacute;ndole tiempo y esfuerzo a los medios digitales. Si bien no es una tarea f&aacute;cil, hoy deber&iacute;as tomar en cuenta la importancia de contar con una presencia online solida.<br /><br />Es una realidad que llegar a los consumidores se ha vuelto complicado, m&aacute;s no imposible. La inmediatez y exigencia por su parte es tal, que bastan segundos para perder el inter&eacute;s por tu marca. Por lo tanto, lo m&iacute;nimo que espera un usuario es que tengas una buena presencia en el mundo digital.</p>
+<h2 style="text-align: left;"><br /><strong>&iquest;De qu&eacute; forma te puedes adaptar al mercado actual eficientemente?</strong></h2>
+<p style="text-align: left;">La verdad no hay una f&oacute;rmula escrita ni mucho menos. Lo que si tenemos claro por lo ya antes mencionado, es que la&nbsp;<strong>transformaci&oacute;n digital</strong>&nbsp;es un pieza clave dentro de este mercado. T&eacute;cnicamente este concepto se refiere a la integraci&oacute;n de tecnolog&iacute;a para llevar a acabo las operaciones de tu empresa. Sin embargo, muchos se olvidan de la parte m&aacute;s importante. Que por medio de estas nuevas herramientas, brindes alg&uacute;n tipo de valor que te diferencie de tu competencia. Como ya hemos recalcado, los consumidores han cambiado. Ya no est&aacute;n interesados en un producto en concreto; si no en vivir toda una experiencia a trav&eacute;s de una marca.<br /><br />Despu&eacute;s de leer todo esto seguro te estar&aacute;s preguntando:&nbsp;<strong>&iquest;qui&eacute;n puede ayudarme a realizar una transformaci&oacute;n digital en mi empresa?<br /><br /></strong>Afortunadamente est&aacute;s en el lugar indicado (cabe destacar que no es una casualidad que est&eacute;s leyendo esto) benditas estrategias digitales que te atrajeron hasta aqu&iacute;.<strong><br /></strong><br />Como podr&aacute;s ver, en Genotipo somos apasionados por todo lo que tenga que ver con el mundo digital. Estamos posicionados como una agencia de transformaci&oacute;n digital con m&aacute;s de 15 a&ntilde;os de experiencia. A nosotros nos encanta llevar a acabo estrategias de comunicaci&oacute;n y de marketing por medio de estas herramientas y plataformas.&nbsp;<strong>&iquest;Pero con qu&eacute; fin?&nbsp;</strong>El de posicionar marcas y crear una presencia online fuerte, para que cada uno de nuestros clientes este compitiendo como se debe en el mercado digital.<br /><br />Con base en nuestra experiencia, hemos detectado que la manera perfecta de adaptarse a este entorno es por medio de una&nbsp;<strong>estrategia digital integral&nbsp;</strong>y eso es lo que verdaderamente amamos hacer.<br /><br />A trav&eacute;s del desarrollo y dise&ntilde;o web, herramientas automatizadas, campa&ntilde;as publicitarias en las redes de Google y optimizaci&oacute;n en los motores de b&uacute;squeda; logramos incrementar las prospectos, consolidar tu imagen en el entorno digital y que tu marca sea reconocida por brindar una experiencia multimedia llamativa. Y esto traducido en t&eacute;rminos comerciales se refleja en ventas.</p>
+<h2 style="text-align: left;"><br /><strong>Probablemente despu&eacute;s de leer esto, ya est&eacute;s listo para dar el salto al mundo digital.</strong></h2>
+<p>&nbsp;</p>
+<p style="text-align: left;">Recuerda que las posibilidades son infinitas. Plat&iacute;canos sobre tu negocio y nosotros nos encargamos de todo lo dem&aacute;s. Siempre pensando en el futuro y en las posibilidades que la revoluci&oacute;n tecnol&oacute;gica trae consigo, desarrollaremos tu proyecto para que ganes nuevos clientes y crezcas empresarialmente.<br /><br /><strong>&iquest;Qu&eacute; est&aacute;s esperando? &iexcl;Cont&aacute;ctanos!</strong><br /><a href="../../../contactanos" target="_blank" rel="noreferrer">https://www.genotipo.com/contactanos</a></p>    </div>
+
+    <div class="clearfix30"></div>
+
+            <div class="clearfix30"></div>
+
+    <div class="col-sm-12 center">
+      <a href="https://www.genotipo.com/articulos" class="btn-black">Regresar
+        a Artículos</a>
+            <div class="clearfix30"></div>
+      <h2><strong>¿Te gustó o resultó interesante? Compártelo.</strong></h2>
+      <div class="clearfix10"></div>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa"
+        target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png"
+          border="0" alt="Google+" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" border="0" alt="LinkedIn" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?url=https://www.genotipo.com/articulos/descubre-la-importancia-de-implementar-la-transformacion-digital-en-tu-empresa" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/pinterest.png" border="0" alt="Pinterest" /></a>
+    </div>
+  </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684415"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684415"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script>
+$(document).ready(function() {
+  $("#menu").addClass("black-menu");
+});
+</script>
+</body>
+
+</html>

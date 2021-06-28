@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WGL3B38');
+  </script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <title>Storytelling: ¿Cómo conquistar el Mercado con tu Gran Historia?</title>
+  <meta name="description" content="Todos tenemos una historia que contar... No importa lo pequeña, ni lo grande que esta sea, las personas AMAN las historias como a ninguna otra cosa. ">
+  <meta name="keywords" content="">
+  <meta name="ROBOTS" content="INDEX, FOLLOW" />
+  <meta name="author" content="Genotipo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="geo.region" content="MX" />
+  <meta name="geo.placename" content="Canc&uacute;n" />
+  <meta name="geo.position" content="21.164057;-86.822498" />
+  <meta name="ICBM" content="21.164057, -86.822498" />
+  <meta name="DC.Language" content="es-MX">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia" />
+  <meta property="og:title" content="Storytelling: ¿Cómo conquistar el Mercado con tu Gran Historia?" />
+  <meta property="og:description" content="Todos tenemos una historia que contar... No importa lo pequeña, ni lo grande que esta sea, las personas AMAN las historias como a ninguna otra cosa. " />
+  <meta property="og:image" content="https://www.genotipo.com/img/articulos/1534189469.jpg" />
+  <meta property="og:url" content="https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:alt" content="Genotipo" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name" content="Genotipo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/genotipo" />
+  <meta name="twitter:title" content="Storytelling: ¿Cómo conquistar el Mercado con tu Gran Historia?" />
+  <meta name="twitter:description" content="Todos tenemos una historia que contar... No importa lo pequeña, ni lo grande que esta sea, las personas AMAN las historias como a ninguna otra cosa. " />
+  <meta name="twitter:image" content="https://www.genotipo.com/img/articulos/1534189469.jpg" />
+    <!-- Script | Datos Estructurados | schema.org -->
+  <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Genotipo",
+            "logo" : "https://www.genotipo.com/img/genotipo-small.png",
+            "url": "https://www.genotipo.com/",
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "4422513805",
+                "contactType": "customer service"
+            }],
+            "sameAs": ["https://www.facebook.com/genotipo","https://www.linkedin.com/company/grupo-genotipo","https://www.instagram.com/genotipomx"]
+        }
+    </script>
+
+  <!-- Favicon -->
+  <link href="https://www.genotipo.com/img/icons/favicon.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" href="https://www.genotipo.com/img/icons/favicon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.genotipo.com/img/icons/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.genotipo.com/img/icons/touch-icon-ipad.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://www.genotipo.com/css/main.min.css?t=1624684199">
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '203277856719067');
+  fbq('track', "PageView");
+  fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=203277856719067&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code --></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGL3B38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="menu" class="ha-header ha-header-large">
+        <h1><a href="https://www.genotipo.com/">Genotipo</a></h1>
+
+        <div class="header-redes hidden-xs">
+            <span class="redes">
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="https://wa.me/5214422513805" class="whatsapp">
+                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a> -->
+            </span>
+        </div>
+
+        <button type="button" aria-label="Toggle Navigation" id="target" class="lines-button x">
+            <span class="txt">MENÚ</span>
+            <span class="lines"></span>
+        </button>
+
+        <div class="menu">
+            <ul class="navegacion">
+                <li><a href="https://www.genotipo.com/" data-hover="Inicio">Inicio</a></li>
+                <li><a href="https://www.genotipo.com/acerca-de-nosotros" data-hover="Nosotros">Nosotros</a></li>
+                <li>
+                    <a href="javascript:;" data-hover="Servicios" class="active-submenu">Servicios</a>
+                    <ul class="navegacion submenu">
+                        <li><a href="https://www.genotipo.com/servicios" data-hover="Ver todos">Ver todos</a></li>
+                        <li><a href="https://www.genotipo.com/diseno-paginas-web" data-hover="Diseño web">Diseño web</a></li>
+                        <li><a href="https://www.genotipo.com/desarrollo-web" data-hover="Desarrollo">Desarrollo</a></li>
+                        <li><a href="https://www.genotipo.com/marketing-digital" data-hover="Marketing digital">Marketing digital</a></li>
+                        <li><a href="https://www.genotipo.com/branding-y-diseno-grafico" data-hover="Branding / diseño">Branding / diseño</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.genotipo.com/proyectos" data-hover="Proyectos">Proyectos</a></li>
+                <li><a href="https://www.genotipo.com/clientes" data-hover="Clientes">Clientes</a></li>
+                <li><a href="https://www.genotipo.com/articulos" data-hover="Artículos">Artículos</a></li>
+                <li><a href="https://www.genotipo.com/workshops" data-hover="Workshops">Workshops</a></li>
+                <li><a href="https://www.genotipo.com/contactanos" data-hover="Contacto">Contacto</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <hr class="hrline"/>
+            <p class="tel">
+                Querétaro. (442) 251 38 05<br/>
+                Cancún. (998) 206 88 53
+            </p>
+
+            <span class="redes">
+                <!-- <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook"></a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram"></a>
+                <a href="http://twitter.com/genotipo" target="_blank" class="twitter"></a>
+                <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a>
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin"></a> -->
+                <a href="http://www.facebook.com/genotipo" target="_blank" class="facebook">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/genotipomx" target="_blank" class="instagram">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <!-- <a href="http://twitter.com/genotipo" target="_blank" class="twitter">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a> -->
+                <!-- <a href="https://plus.google.com/+GenotipoMx" rel="Publisher" target="_blank" class="gplus"></a> -->
+                <a href="https://www.linkedin.com/company/grupo-genotipo" target="_blank" class="linkedin">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </span>
+            <hr/>
+            <p class="copy hidden-xs">
+                Hecho con <span class="corazon"></span> en México.<br/>
+                Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+            </p>
+        </div>
+    </div>
+
+
+<div class="clearfix50"></div>
+<section class="container">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+      <div class="center">
+        <h6>Artículos</h6>
+        <div class="clearfix20"></div>
+        <h1 class="titulo-noticia">Storytelling: ¿Cómo conquistar el Mercado con tu Gran Historia?        </h1>
+      </div>
+    </div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <div class="center">
+        <img src="https://www.genotipo.com/img/articulos/1534189469.jpg" class="img-responsive imagen-noticia"
+          alt="">
+        <div class="fright">
+          <p><i class="fa fa-eye" aria-hidden="true"></i> <strong>5</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix10"></div>
+
+    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 col-sm-12">
+      <h3>Todos tenemos una historia que contar... No importa lo pequeña, ni lo grande que esta sea, las personas AMAN las historias como a ninguna otra cosa.       </h3>
+      <div class="h30"></div>
+      <div><strong>Es interesante como una persona puede cambiar tantas cosas:</strong></div>
+<div>&nbsp;</div>
+<div>En los a&ntilde;os 90s, Apple no era ni la sombra de lo que alguna vez lleg&oacute; a ser.&nbsp; Con el final del milenio a la vuelta de la esquina, la empresa de Cupertino estaba en muy serios apuros; sus productos eran lamentables (por no decir espantosos), siempre con fallos t&eacute;cnicos que llegaban a arruinar toda la experiencia de usuario; toda la cadena de mando ten&iacute;a fallos administrativos por doquier; hab&iacute;an perdido casi por completo su posici&oacute;n l&iacute;der en la industria tecnol&oacute;gica y de paso, el respeto de toda la competencia.</div>
+<div>&nbsp;</div>
+<div>En 1997, desesperados por volver a ser tomados en serio, el en ese momento CEO de la empresa Michael Splinder tom&oacute; lo que probablemente ha sido la decisi&oacute;n m&aacute;s importante que cualquier directivo ha tomado en la historia de Apple (y de la industria americana): hacer que Steve Jobs regresara a casa.</div>
+<div>&nbsp;</div>
+<div>Lo que pas&oacute; despu&eacute;s ya lo conocemos: 20 a&ntilde;os despu&eacute;s, Apple ha revolucionado casi todos los campos que ha tocado, desde computadoras y tablets hasta celulares y la industria musical, haciendo que la compa&ntilde;&iacute;a de Silicon Valley est&eacute; valuada en casi 1 Trill&oacute;n de dolares, lo que la convierte en la empresa tecnol&oacute;gica m&aacute;s importante del &uacute;ltimo siglo y una de las m&aacute;s iconoclastas en la historia moderna.</div>
+<div>&nbsp;</div>
+<div>Muchos a&ntilde;os despu&eacute;s se le pregunt&oacute; a Jobs c&oacute;mo llegaron a tal &eacute;xito;&nbsp;</div>
+<div>"&iquest;Qu&eacute; es lo que Jobs ten&iacute;a que lograba convencer a tanta gente para consumir Apple, convertir tantos seguidores tan apasionados por el planeta y cambiar el mundo tan radicalmente?" Su respuesta, curiosamente, ya la hab&iacute;a dado muchos a&ntilde;os antes. En 1994, para ser exactos: mientras com&iacute;a con sus empleados en la empresa NeXT, dijo este comentario:</div>
+<div>&nbsp;</div>
+<div>"La persona m&aacute;s poderosa del mundo es elnarrador... (El) establece la visi&oacute;n, los valores y la agenda detoda la generaci&oacute;n que est&aacute; por llegar."</div>
+<div>&nbsp;</div>
+<div>Todos tenemos una historia que contar... No importa lo peque&ntilde;a, ni lo grande que esta sea, las personas AMAN las historias como a ninguna otra cosa.</div>
+<div>&nbsp;</div>
+<div>Pi&eacute;nsalo, &iquest;porqu&eacute; las personas se sientan en silencio durante horas enfrente de una pantalla, viendo como las vidas de otras personas se meten en problemas rid&iacute;culos? &iquest;Y adem&aacute;s pagan MILES DE MILLONES DE DOLARES anuales por hacerlo? &iquest;DIARIO? Eso es rar&iacute;simo. Pero as&iacute; somos las personas. No podemos resistirnos a una buena historia.</div>
+<div>&nbsp;</div>
+<div>De igual manera, no importa cu&aacute;l sea tu empresa, qu&eacute; es lo que vendas ni el sector al que te dirijas, si sabes como comunicar la esencia de TU HISTORIA, tu empresa alcanzar&aacute; la cima de su potencial. Para lograrlo, debes entender la esencia del Storytelling. Estos solo son 2 pasos:</div>
+<div>&nbsp;</div>
+<div><strong>1 ) Establece tu Narraci&oacute;n</strong>&nbsp;</div>
+<div>Toda historia en esencia solo tiene 4 partes sencillas:</div>
+<div>Tu empresa es el H&eacute;roe, aqu&eacute;l que est&aacute; destinado al &eacute;xito empresarial y a cambiar el mundo (suena dram&aacute;tico, pero as&iacute; le gusta la gente); las caracter&iacute;sticas y valores de dicho h&eacute;roe son las de tu empresa). El H&eacute;roe tiene un Objetivo muy espec&iacute;fico y har&aacute; todo en su poder para lograr conseguirlo (ese objetivo es tu Misi&oacute;n como empresa) pero no importa lo perfecto que sea tu plan, siempre, siempre hay un Obst&aacute;culo, lo que impide que el H&eacute;roe consiga lo que quiera (puede ser una situaci&oacute;n, depresi&oacute;n econ&oacute;mica, el mismo Status Quo, etc; una historia sin obst&aacute;culos es de lo m&aacute;s aburrido de la historia).</div>
+<div>&nbsp;</div>
+<div>Al final, incluso si no se ha conseguido el objetivo o est&aacute;n ello, tu H&eacute;roe sufrir&aacute; un Cambio, algo que altera para bien su manera de ver el mundo y a las personas (un cambio en su forma de ver el negocio, las personas que lo integran, tus clientes, etc.).</div>
+<div>TODA GRAN HISTORIA SIGUE ESTE PATR&Oacute;N (lee la introducci&oacute;n de este post; la estructura es la misma).</div>
+<div>&nbsp;</div>
+<div><strong>2 ) Haz que me importe</strong></div>
+<div>Despu&eacute;s de encontrar tu historia, debes contarla de manera &uacute;nica. Encontrar el c&oacute;mo que hace tu empresa diferente. En palabras del gran Simon Sinek: "Las personas no compran lo que haces. Ellos compranporqu&eacute;lo haces".</div>
+<div>&nbsp;</div>
+<div>Como los seres selectivos que somos, si no ganas nuestra atenci&oacute;n en segundos lo mas seguro es que jam&aacute;s te volveremos a prestar atenci&oacute;n.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Entonces g&aacute;natela: Se aut&eacute;ntico, descubre qu&eacute; hace tu empresa &uacute;nica y luego gr&iacute;talo a los cuatro vientos.</div>
+<div>&nbsp;</div>
+<div>El libro "Marketing: A Love Story", "Story Driven" o cualquier libro por Bernadette Jiwa es un excelente inicio.</div>    </div>
+
+    <div class="clearfix30"></div>
+
+            <div class="clearfix30"></div>
+
+    <div class="col-sm-12 center">
+      <a href="https://www.genotipo.com/articulos" class="btn-black">Regresar
+        a Artículos</a>
+            <div class="clearfix30"></div>
+      <h2><strong>¿Te gustó o resultó interesante? Compártelo.</strong></h2>
+      <div class="clearfix10"></div>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia"
+        target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png"
+          border="0" alt="Google+" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" border="0" alt="LinkedIn" /></a>
+      <a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?url=https://www.genotipo.com/articulos/storytelling-como-conquistar-el-mercado-con-tu-gran-historia" target="_blank"><img
+          src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/pinterest.png" border="0" alt="Pinterest" /></a>
+    </div>
+  </div>
+</section>
+
+<div class="clearfix70"></div>
+
+<section class="pleca-gris content">
+    <section class="container">
+        <div class="row">
+            <div class="col-sm-12 center wow fadeInDown">
+                <h4>¿Tienes un proyecto o idea increíble?</h4>
+                <h3>Nos encantaría escucharla, asesorarte y ayudarte a llevarla a cabo.</h3>
+                <div class="nav-btn">
+                    <a href="https://www.genotipo.com/contactanos" class="btn-black mt0">Cuéntanos más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<div class="clearfix"></div>
+
+
+<div class="div-whatsapp">
+    <a href="https://wa.me/524422513805" target="_blank">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    </a>
+</div>
+<footer id="footer">
+    <div class="box1">
+        <img src="https://www.genotipo.com/img/genotipo.png" alt="Genotipo" />
+        <p>
+            Hecho con <span class="corazon"></span> en México.<br/>
+            Genotipo.com ®  Todos los Derechos Reservados 2021 <span class="hidden-xs">•</span> <br class="visible-xs" /><a href="https://www.genotipo.com/aviso-de-privacidad">Aviso de Privacidad</a>
+        </p>
+    </div>
+    <div class="box1 hidden-xs">
+        <div class="con-suscribir">
+            <label id="lbl-suscribir">Suscríbete a nuestro boletín</label>
+            <div class="column">
+                <div id="sb-suscribir" class="sb-suscribir">
+                    <form id="suscripcion" action="//genotipo.us6.list-manage.com/subscribe/post?u=6e01cf4b5f4762e043d921d51&amp;id=725cbc88a1" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <input class="sb-suscribir-input" placeholder="Introduce tu email..." type="email" value="" name="EMAIL" id="suscribir" required>
+                        <input class="sb-suscribir-submit" type="submit" value="Enviar" name="suscripcion" >
+                        <span class="sb-icon-suscribir"><span class="suscribir"></span></span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /container -->        
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+<script>window.jQuery || document.write('<script src="https://www.genotipo.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="https://www.genotipo.com/js/plugins.js?t=1624684199"></script>
+<script src="https://www.genotipo.com/js/main.js?t=1624684199"></script>
+<script async src="https://www.genotipo.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("button#target").click(function () {
+            if ($(this).hasClass("close")) {
+                $(".menu").fadeIn();
+            } else {
+                $(".menu").fadeOut();
+            }
+        });
+    });
+
+
+    //FACEBOOK
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6016158811250', {'value': '0.00', 'currency': 'MXN'}]);
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Source+Sans+Pro:400,300,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script>
+$(document).ready(function() {
+  $("#menu").addClass("black-menu");
+});
+</script>
+</body>
+
+</html>
